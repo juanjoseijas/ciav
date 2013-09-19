@@ -3,14 +3,16 @@
 source 'http://rubygems.org'
 
 gem "middleman", "~>3.1.5"
-
-# Live-reloading plugin
 gem "middleman-livereload", "~> 3.1.0"
+gem "susy"
+gem "middleman-favicon-maker"
+gem "middleman-smusher"
+gem "middleman-deploy"
+gem "middleman-minify-html"
 
-# For faster file watcher updates on Windows:
-gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
+# Markdown parser
+gem "redcarpet", "~> 2.2"
 
-# Cross-templating language block fix for Ruby 1.8
-platforms :mri_18 do
-  gem "ruby18_source_location"
-end
+# Automatically add vendor prefixes to CSS rules in the stylesheets served in your Middleman project using values from Can I Use.
+gem 'middleman-autoprefixer'
+
