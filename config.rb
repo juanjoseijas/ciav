@@ -1,4 +1,24 @@
 ###
+# Global settings
+###
+
+# Enable Localization (i18n)
+activate :i18n,  :mount_at_root => :es
+
+# Enable Pretty URLs (Directory Indexes)
+activate :directory_indexes
+page "/404.html", :directory_index => false
+
+###
+# Markdown settings
+###
+
+set :markdown_engine, :redcarpet
+set :markdown, :autolink => true,
+               :tables => true,
+               :fenced_code_blocks => true
+
+###
 # Compass
 ###
 
@@ -7,6 +27,10 @@
 #   config.output_style = :compact
 # end
 
+# Susy grids in Compass
+# First: gem install susy
+require 'susy'
+
 ###
 # Page options, layouts, aliases and proxies
 ###
@@ -14,7 +38,13 @@
 # Per-page layout changes:
 #
 # With no layout
-# page "/path/to/file.html", :layout => false
+page "robots.txt", :layout => false
+page "humans.txt", :layout => false
+page "/sitemap.xml", :layout => false
+
+# Ignore content files (markdown)
+ignore "content/*"
+
 #
 # With alternative layout
 # page "/path/to/file.html", :layout => :otherlayout
@@ -45,29 +75,51 @@
 #   end
 # end
 
-set :css_dir, 'css'
+# CustomHelpers
+require "lib/custom_helpers"
+helpers CustomHelpers
 
-set :js_dir, 'js'
+set :css_dir, 'stylesheets'
+set :js_dir, 'javascripts'
+set :images_dir, 'images'
 
-set :images_dir, 'img'
+
+# Enable LiveReload
+ activate :livereload
+
+# Enable cache buster
+activate :asset_hash
+
+# Enable autoprefixer
+activate :autoprefixer
 
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
-  # activate :minify_css
+  activate :minify_css
+  activate :minify_html
 
   # Minify Javascript on build
-  # activate :minify_javascript
+  activate :minify_javascript
 
   # Enable cache buster
-  # activate :asset_hash
+  activate :cache_buster
 
   # Use relative URLs
   # activate :relative_assets
 
+  # Enable favicon generator
+  activate :favicon_maker
+
+  # Compress PNGs after build
+  # First: gem install middleman-smusher
+  require "middleman-smusher"
+  activate :smusher
+
   # Or use a different image path
-  # set :http_prefix, "/Content/images/"
+  # set :http_path, "/Content/images/"
 end
+
 
 
 activate :deploy do |deploy|

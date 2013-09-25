@@ -1,0 +1,22 @@
+<% if I18n.locale.to_s == "es" %>
+        <script type="text/javascript"
+            src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB9z6AhWZRroBRzUmzAJoTzxUgRkq6bXbI&sensor=false&language=es">
+        </script>
+        <% elsif I18n.locale.to_s == "gl" %>
+
+        <script type="text/javascript"
+            src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB9z6AhWZRroBRzUmzAJoTzxUgRkq6bXbI&sensor=false&language=gl">
+        </script>
+
+        <% elsif I18n.locale.to_s == "en" %>
+
+        <script type="text/javascript"
+            src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB9z6AhWZRroBRzUmzAJoTzxUgRkq6bXbI&sensor=false&language=en">
+        </script>
+        <% elsif I18n.locale.to_s == "de" %>
+
+        <script type="text/javascript"
+            src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB9z6AhWZRroBRzUmzAJoTzxUgRkq6bXbI&sensor=false&language=en">
+        </script>
+
+<% end %>

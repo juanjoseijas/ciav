@@ -1,0 +1,76 @@
+@import "compass";
+@import "compass/reset";
+@import "susy";
+
+// --------------------------------------------
+// general settings
+// Susy & Compass use HTML hacks to support IE 6 and 7. You can turn that off:
+
+// $legacy-support-for-ie6 : false;
+// $legacy-support-for-ie7 : true;
+
+
+// --------------------------------------------
+// typography settings
+
+$relative-font-sizing : true;
+$base-font-size       : 16px;
+$base-line-height     : 24px;
+
+// establish your vertical baseline grid.
+
+@include establish-baseline;
+$fontSmoothing        : antialiased;
+
+
+// --------------------------------------------
+// colors settings
+
+$white			: #ffffff;
+$beige			: #e8e6e0;
+$black			: #202020;
+$gray           : #C0BEBA;
+$graylight      : #E2E0DC;
+$graydark       : #333333;
+$link           : #68a6ca;
+
+$border 		: 1px solid $beige;
+
+
+// --------------------------------------------
+// grid settings
+
+$total-columns    : 12;
+$column-width     : 4em;
+$gutter-width     : 2em;
+$grid-padding     : 1em;
+
+
+$container-style: fluid;
+
+.fluid-container { @include container; }
+
+// --------------------------------------------
+// styles
+
+
+body { background: $white;
+		
+		font-family: "futura-pt",sans-serif;
+
+		-webkit-font-smoothing: $fontSmoothing; 
+		
+
+		color: $graydark;
+		
+		a {text-decoration:none;
+		   color:$link;}
+
+		 img {width: 100%;}
+
+		 video {	max-width: 100%;
+					height: auto; }
+
+		h1 {text-transform:lowercase;font-size:1.5em;}
+
+	}

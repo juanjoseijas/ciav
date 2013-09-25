@@ -1,0 +1,45 @@
+---
+es:
+  site:
+    title: 'Centro Internacional de Atención a Visitantes de la Torre de Hércules '
+    description: 'Centro dedicado a la interpretación de la Torre de Hércules, con información sobre su evolución histórica y funcional.'
+    keywords: ''
+    author: 'Juanjo @ Efímera'
+
+  locale:
+    es: es
+    en: en
+    gl: gl
+    de: de
+
+  layout:
+    index: bienvenido
+    howto: ¿cómo llegar?
+
+  paths:
+    function: "funcion-de-faro"
+    howto: "como-llegar"
+
+
+  menu:
+    about: "Acerca de"
+    function: "Función de faro"
+    building: "Métodos constructivos"
+    signatures: "Firmas"
+    time: "El faro en el tiempo"
+    rome: "Época romana"
+    environment: "Entorno"
+    mythology: "Leyendas y huellas"
+
+
+  text:
+    googlemap: "Mostrar ruta en Google Maps desde donde estás ahora"
+    name: "Nombre"
+    email: "Email"
+    follow-us: "Síguenos en"
+    tag: "Comparte tus fotos con nosotros en instagram o twitter con el hashtag #ciav"
+    subscription: "Quiero subscribirme"
+    newsletter_legend: "Subscríbete a nuestra newsletter"
+    newsletter_description: "Nuestro newsletter es una manera de mantenermos en contacto contigo: no facilitamos tus datos a nadie, y sólo te mandaremos un email mensual con novedades y ofertas."
+
+

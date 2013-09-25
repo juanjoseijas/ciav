@@ -1,0 +1,13 @@
+site:
+  domain: 'http://volapuk.es'
+  tracking_code: 'UA-1727691-6'
+
+contact:
+  email: 'info@ciav.com'
+
+services:
+  twitter: 'http://twitter.com/ciav'
+  facebook: 'https://www.facebook.com/ciav'
+  instagram: 'http://instagram.com/ciav'
+  vimeo: 'http://vimeo.com/ciav'
+
