@@ -7,55 +7,65 @@
   
   <url>
     <loc>http://volapuk.es/404.html</loc>
-    <lastmod>2013-09-25</lastmod>
+    <lastmod>2013-09-26</lastmod>
     
   </url>
   
   <url>
-    <loc>http://volapuk.es/signatures/</loc>
-    <lastmod>2013-09-25</lastmod>
+    <loc>http://volapuk.es/el-faro-en-el-tiempo/</loc>
+    <lastmod>2013-09-26</lastmod>
     
   </url>
   
   <url>
-    <loc>http://volapuk.es/rome/</loc>
-    <lastmod>2013-09-25</lastmod>
+    <loc>http://volapuk.es/firmas/</loc>
+    <lastmod>2013-09-26</lastmod>
     
   </url>
   
   <url>
-    <loc>http://volapuk.es/mythology/</loc>
-    <lastmod>2013-09-25</lastmod>
+    <loc>http://volapuk.es/epoca-romana/</loc>
+    <lastmod>2013-09-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/leyendas-y-huellas/</loc>
+    <lastmod>2013-09-26</lastmod>
     
   </url>
   
   <url>
     <loc>http://volapuk.es/</loc>
-    <lastmod>2013-09-25</lastmod>
+    <lastmod>2013-09-26</lastmod>
+    
+      <priority>1.0</priority>
     
   </url>
   
   <url>
     <loc>http://volapuk.es/funcion-de-faro/</loc>
-    <lastmod>2013-09-25</lastmod>
+    <lastmod>2013-09-26</lastmod>
+    
+      <priority>1.0</priority>
     
   </url>
   
   <url>
-    <loc>http://volapuk.es/environment/</loc>
-    <lastmod>2013-09-25</lastmod>
+    <loc>http://volapuk.es/entorno/</loc>
+    <lastmod>2013-09-26</lastmod>
     
   </url>
   
   <url>
-    <loc>http://volapuk.es/building/</loc>
-    <lastmod>2013-09-25</lastmod>
+    <loc>http://volapuk.es/ciav/</loc>
+    <lastmod>2013-09-26</lastmod>
     
   </url>
   
   <url>
-    <loc>http://volapuk.es/time/</loc>
-    <lastmod>2013-09-25</lastmod>
+    <loc>http://volapuk.es/metodos-constructivos/</loc>
+    <lastmod>2013-09-26</lastmod>
     
   </url>
 </urlset>
