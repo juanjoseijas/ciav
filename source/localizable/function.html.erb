@@ -1,6 +1,24 @@
 ---
-title: Función de faro
+title: function
+layout: layout
+priority: 1.0
 ---
 
 
-<%= partial "content/#{I18n.locale}/function" %>
+<article itemscope itemtype="http://schema.org/Article">
+	<aside>
+		<a href="http://ciav.s3.amazonaws.com/img/function01.jpg" class="fresco"><img src="http://ciav.s3.amazonaws.com/img/function01.jpg"></a>	
+	</aside>
+	<div class="bodytext">
+		<header>
+			<hgroup>
+				<h1 itemprop="name"><%= I18n.t('layout.function') %></h1>
+			</hgroup>
+		</header>
+		<section>
+			<%= partial "content/#{I18n.locale}/function" %>
+		</section>
+		<footer>
+		</footer>
+	</div>
+</article>

@@ -83,7 +83,7 @@ module CustomHelpers
   end
 
   def available_locales
-    [:en, :es, :gl]
+    [:en, :es, :fr, :pt, :de, :it, :gl,]
   end
 
   def default_locale

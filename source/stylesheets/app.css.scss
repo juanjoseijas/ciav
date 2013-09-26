@@ -14,7 +14,7 @@
 // typography settings
 
 $relative-font-sizing : true;
-$base-font-size       : 16px;
+$base-font-size       : 18px;
 $base-line-height     : 24px;
 
 // establish your vertical baseline grid.
@@ -26,15 +26,17 @@ $fontSmoothing        : antialiased;
 // --------------------------------------------
 // colors settings
 
-$white			: #ffffff;
-$beige			: #e8e6e0;
+$white			: #F8F7F6;
+$beige			: #F7F5F0;
 $black			: #202020;
 $gray           : #C0BEBA;
 $graylight      : #E2E0DC;
 $graydark       : #333333;
-$link           : #68a6ca;
+$yellow			: #F5C33D;
+$link           : $black;
 
-$border 		: 1px solid $beige;
+$border 		: 1px solid $yellow;
+$grid-background-column-color: #eee;
 
 
 // --------------------------------------------
@@ -43,34 +45,180 @@ $border 		: 1px solid $beige;
 $total-columns    : 12;
 $column-width     : 4em;
 $gutter-width     : 2em;
-$grid-padding     : 1em;
+$grid-padding     : 0em;
 
+$small-columns    : 1;
+$medium-columns   : 6;
+$large-columns    : 12;
+
+$container-width  : container-outer-width($large-columns);
+
+
+// --------------------------------------------
+// layout settings
+
+@include border-box-sizing;
 
 $container-style: fluid;
+.fluid-container { @include container; 
+					
+					/*@include at-breakpoint($small-columns) { @include susy-grid-background; }
+					@include at-breakpoint($medium-columns) { @include susy-grid-background; }
+					@include at-breakpoint($large-columns) { @include susy-grid-background; }*/
+				 }
 
-.fluid-container { @include container; }
+
+// --------------------------------------------
+// small
+
+
+
+
+// --------------------------------------------
+// medium
+
+
+
+@include at-breakpoint($medium-columns) {
+
+}
+
+// --------------------------------------------
+// large
+
+
+
+
+@include at-breakpoint($large-columns) {
+
+	#header {@include squish(1,0);padding-top:$base-line-height * 3;}
+	#banner {@include span-columns(6,11);}
+	#menu {@include span-columns(4,11);padding-right: 2em;  margin-bottom: $base-line-height * 3; border-right:$border;}
+	#languages {@include span-columns(1 omega,11);}
+
+
+	#content {@include span-columns(12,12);}
+	#cover {@include squish(1,1);}
+	#slideshow {@include span-columns(6,10);}
+	#featured {@include span-columns(4 omega,10); padding-right: 2em; padding-bottom: $base-line-height * 6; border-right:$border;}
+	.featured-img {@include span-columns(2,4);}
+	.featured-excerpt {@include span-columns(2 omega,4);}
+
+	article {@include squish(1,1);
+			 
+
+			 aside {@include span-columns(6,10);}
+			 .bodytext {@include span-columns(4 omega,10); padding-right: 2em; padding-bottom: $base-line-height * 6; border-right:$border;}
+			}
+
+	}
+
+
 
 // --------------------------------------------
 // styles
 
 
-body { background: $white;
-		
+body {	background: $white;
 		font-family: "futura-pt",sans-serif;
-
 		-webkit-font-smoothing: $fontSmoothing; 
-		
-
 		color: $graydark;
-		
+		padding-bottom: $base-line-height * 6;
 		a {text-decoration:none;
 		   color:$link;}
+		a:hover {color:$gray;}
+		.active {color:$black;font-weight: bold;}
+		a.active:hover {color:$black;}
+		img {width: 100%;}
+		video {	max-width: 100%;
+				height: auto; }
+		h1 {text-transform:lowercase;font-size:1.5em;padding-bottom:$base-line-height;}
+		p {padding-bottom: $base-line-height / 2;}
 
-		 img {width: 100%;}
+		#header {
+			
+			#menu {text-transform: lowercase;}
 
-		 video {	max-width: 100%;
-					height: auto; }
+		}
 
-		h1 {text-transform:lowercase;font-size:1.5em;}
+		#content {
+
+
+			.bodytext {
+
+				img {	padding-top: $base-line-height; }
+				a {font-weight: bold;}
+
+			}
+		}
 
 	}
+
+
+
+/*	--------------------------------------------------
+	Scroll Up
+-------------------------------------------------- */
+
+
+#scrollUp {
+	bottom: $base-line-height;
+	right: $base-line-height;
+	height: 38px;  /* Height of image */
+	width: 38px; /* Width of image */
+	background: url(/images/top.png) no-repeat;
+}
+
+
+/*	--------------------------------------------------
+	Reveal Modals
+	-------------------------------------------------- */
+		
+	.reveal-modal-bg { 
+		position: fixed; 
+		height: 100%;
+		width: 100%;
+		background: #000;
+		background: rgba(0,0,0,.8);
+		z-index: 100;
+		display: none;
+		top: 0;
+		left: 0; 
+		}
+	
+	.reveal-modal {
+		visibility: hidden;
+		top: 100px; 
+		left: 50%;
+		margin-left: -300px;
+		width: 520px;
+		background: $beige;
+		position: absolute;
+		z-index: 101;
+		padding: 30px 40px 34px;
+		/*-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;*/
+		-moz-box-shadow: 0 0 10px rgba(0,0,0,.4);
+		-webkit-box-shadow: 0 0 10px rgba(0,0,0,.4);
+		-box-shadow: 0 0 10px rgba(0,0,0,.4);
+		img {width: 100%;}
+		}
+		
+	.reveal-modal.small 		{ width: 200px; margin-left: -140px;}
+	.reveal-modal.medium 		{ width: 400px; margin-left: -240px;}
+	.reveal-modal.large 		{ width: 600px; margin-left: -340px;}
+	.reveal-modal.xlarge 		{ width: 800px; margin-left: -440px;}
+	
+	.reveal-modal .close-reveal-modal {
+		font-size: $base-font-size * 2;
+		line-height: $base-line-height;
+		position: absolute;
+		top: 8px;
+		right: 11px;
+		color: $black;
+		font-weight: bold;
+		cursor: pointer;
+		a {text-decoration: none;}
+		} 
+

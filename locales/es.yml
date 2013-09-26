@@ -1,28 +1,47 @@
 ---
 es:
   site:
-    title: 'Centro Internacional de Atención a Visitantes de la Torre de Hércules '
+    title: 'Centro Internacional de Atención a Visitantes de la Torre de Hércules en A Coruña,  España'
     description: 'Centro dedicado a la interpretación de la Torre de Hércules, con información sobre su evolución histórica y funcional.'
-    keywords: ''
+    keywords: 'torre de hércules, a coruña, coruña, la coruña, galicia, españa, faro, faro romano'
     author: 'Juanjo @ Efímera'
 
   locale:
-    es: es
-    en: en
-    gl: gl
-    de: de
+    es: español
+    en: english
+    gl: galego
+    fr: français
+    it: italiano
+    pt: português
+    de: deutsch
 
   layout:
-    index: bienvenido
+    index: Portada
+    about: CIAV
+    function: Función de Faro
+    building: Métodos constructivos
+    signatures: Firmas
+    time: El faro en el tiempo
+    rome: Época romana
+    environment: Entorno
+    mythology: Leyendas y huellas
     howto: ¿cómo llegar?
 
   paths:
+    index: "index"
+    about: "ciav"
     function: "funcion-de-faro"
+    building: "metodos-constructivos"
+    signatures: "firmas"
+    time: "el-faro-en-el-tiempo"
+    rome: "epoca-romana"
+    environment: "entorno"
+    mythology: "leyendas-y-huellas"
     howto: "como-llegar"
 
 
   menu:
-    about: "Acerca de"
+    about: "CIAV"
     function: "Función de faro"
     building: "Métodos constructivos"
     signatures: "Firmas"

@@ -22,17 +22,17 @@
             <%= yield_content :slideshow %>
             <%= yield_content :googlemap %>
 
-        <div id="content" class="container">
-            <%= yield %>
-            <%= yield_content :notice %>
-        </div>
+            <div id="content">
+                <%= yield %>
+                <%= yield_content :notice %>
+            </div>
             <%= partial "/layouts/footer" %>
-
+        
 
         
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.0.min.js"><\/script>')</script>
-        <%= javascript_include_tag  "vendor/jquery.backstretch.min", "vendor/jquery.reveal", "vendor/jquery.scrollUp.min", "vendor/fresco", "vendor/responsiveslides.min", "plugins", "main" %>
+        <%= javascript_include_tag  "vendor/jquery.backstretch.min", "vendor/jquery.reveal", "vendor/jquery.scrollUp.min", "vendor/fresco", "vendor/responsiveslides.min", "vendor/jquery.readingtime.min", "plugins", "main" %>
     </body>
 </html>
