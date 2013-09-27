@@ -1,0 +1,29 @@
+---
+title: signatures
+layout: layout
+priority: 1.0
+---
+
+
+<article itemscope itemtype="http://schema.org/Article">
+	<aside>
+		
+			<ul class="bxslider">
+				  <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/function01.jpg', :class => 'tooltip', :title => 'prueba', :alt => 'prueba' %></li>
+				  <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/function01.jpg', :class => 'tooltip', :title => 'prueba', :alt => 'prueba' %></li>
+				  <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/function01.jpg', :class => 'tooltip', :title => 'prueba', :alt => 'prueba' %></li>
+			</ul>
+	</aside>
+	<div class="bodytext">
+		<header>
+			<hgroup>
+				<h1 itemprop="name"><%= I18n.t('layout.signatures') %></h1>
+			</hgroup>
+		</header>
+		<section>
+			<%= partial "content/#{I18n.locale}/signatures" %>
+		</section>
+		<footer>
+		</footer>
+	</div>
+</Article>

@@ -4,22 +4,15 @@ layout: layout
 priority: 1.0
 ---
 
+<% content_for :tagline do %>
+	<h2><%= I18n.t('site.description') %></h2>
+<% end %>
 
-<div id="cover">
-	<div id="slideshow">
-							<a href="http://ciav.s3.amazonaws.com/img/function01.jpg" class="fresco"><img src="http://ciav.s3.amazonaws.com/img/function01.jpg"></a>	
-
+<% content_for :slideshow do %>
+	<div id="cover" class="index_slide">
 	</div>
-	<div id="featured">
-		<div class="featured-img">
-					<a href="http://ciav.s3.amazonaws.com/img/function01.jpg" class="fresco"><img src="http://ciav.s3.amazonaws.com/img/function01.jpg"></a>	
+<% end %>
 
-		</div>
-		<div class="featured-excerpt">
-			<p>Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores. Quo no falli viris intellegam, ut fugit veritus placerat per.</p>
-		</div>
-	</div>
-</div>
 
 <% content_for :notice do %>
 	<div id="notice" class="reveal-modal">
