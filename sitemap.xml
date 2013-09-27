@@ -15,11 +15,15 @@
     <loc>http://volapuk.es/el-faro-en-el-tiempo/</loc>
     <lastmod>2013-09-26</lastmod>
     
+      <priority>1.0</priority>
+    
   </url>
   
   <url>
     <loc>http://volapuk.es/firmas/</loc>
     <lastmod>2013-09-26</lastmod>
+    
+      <priority>1.0</priority>
     
   </url>
   
@@ -27,11 +31,15 @@
     <loc>http://volapuk.es/epoca-romana/</loc>
     <lastmod>2013-09-26</lastmod>
     
+      <priority>1.0</priority>
+    
   </url>
   
   <url>
     <loc>http://volapuk.es/leyendas-y-huellas/</loc>
     <lastmod>2013-09-26</lastmod>
+    
+      <priority>1.0</priority>
     
   </url>
   
@@ -55,17 +63,23 @@
     <loc>http://volapuk.es/entorno/</loc>
     <lastmod>2013-09-26</lastmod>
     
+      <priority>1.0</priority>
+    
   </url>
   
   <url>
     <loc>http://volapuk.es/ciav/</loc>
     <lastmod>2013-09-26</lastmod>
     
+      <priority>1.0</priority>
+    
   </url>
   
   <url>
     <loc>http://volapuk.es/metodos-constructivos/</loc>
     <lastmod>2013-09-26</lastmod>
+    
+      <priority>1.0</priority>
     
   </url>
 </urlset>
