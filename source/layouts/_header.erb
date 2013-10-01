@@ -6,14 +6,17 @@
 				<%= yield_content :tagline %>
 			</div>
 			<div id="menu">
-				<nav id="navigation">
+				<a href="#" class="showmenu"><%= I18n.t('text.show-menu') %></a>
+				<nav id="navigation-menu">
+
 					<ul>
 						<%= draw_page_nav %>
 					</ul>
 				</nav>
 			</div>
 			<div id="languages">
-				<nav>
+				<a href="#" class="showmenu"><%= I18n.t('text.show-lang') %></a>
+				<nav id="navigation-languages">
 					<ul>
 						<%= draw_locale_select %>
 					</ul>

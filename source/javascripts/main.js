@@ -4,8 +4,15 @@
 $("article").readingtime();
 
 
+// 
 
+$( "#menu .showmenu" ).click(function() {
+  $( "#navigation-menu" ).toggle();
+});
 
+$( "#languages .showmenu" ).click(function() {
+  $( "#navigation-languages" ).toggle();
+});
 
 
 

@@ -85,7 +85,7 @@ set :images_dir, 'images'
 
 
 # Enable LiveReload
- activate :livereload
+activate :livereload
 
 # Enable cache buster
 activate :asset_hash

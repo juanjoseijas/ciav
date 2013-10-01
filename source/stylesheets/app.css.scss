@@ -73,8 +73,8 @@ $container-style: fluid;
 // --------------------------------------------
 // small
 
-
-
+#navigation-menu {display: none;}
+#navigation-languages {display:none;}
 
 // --------------------------------------------
 // medium
@@ -97,7 +97,8 @@ $container-style: fluid;
 	#banner {@include span-columns(6,11);}
 	#menu {@include span-columns(4,11);padding-right: 2em;  margin-bottom: $base-line-height * 3; border-right:$border;}
 	#languages {@include span-columns(1 omega,11);}
-
+	#navigation-menu {display: block;}
+	#navigation-languages {display:block;}
 
 	#content {@include span-columns(12,12);}
 	#cover {;height:$base-line-height * 25;}
@@ -148,10 +149,14 @@ body {	background: $white;
 			z-index: 1;
 			
 			
+			
 
 
 
-			#header { #menu {text-transform: lowercase;} }
+			#header { 
+				.showmenu {color:$yellow;}
+				#menu {text-transform: lowercase; }
+				#languages {text-transform: lowercase; } }
 
 
 
@@ -161,7 +166,7 @@ body {	background: $white;
 
 		#content {
 
-			margin-top: $base-line-height * 14;
+			margin-top: $base-line-height * 15;
 
 			.bodytext {
 

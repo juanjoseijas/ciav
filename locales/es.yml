@@ -52,6 +52,8 @@ es:
 
 
   text:
+    show-menu: "Menú"
+    show-lang: "Idiomas"
     googlemap: "Mostrar ruta en Google Maps desde donde estás ahora"
     name: "Nombre"
     email: "Email"
