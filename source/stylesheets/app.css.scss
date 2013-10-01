@@ -1,7 +1,6 @@
 @import "compass";
 @import "compass/reset";
 @import "susy";
-@import "fresco";
 
 
 // --------------------------------------------
@@ -207,6 +206,8 @@ body {	background: $white;
 	height: 38px;  /* Height of image */
 	width: 38px; /* Width of image */
 	background: url(/images/scrollup/top.png) no-repeat;
+	z-index: 0;
+
 }
 
 
@@ -455,3 +456,6 @@ body {	background: $white;
 	padding: 10px;*/
 
 }
+
+
+@import "fresco";

@@ -47,8 +47,8 @@ $( "#languages .showmenu" ).click(function() {
 
 
   $("#cover").backstretch(["http://ciav.s3.amazonaws.com/img/function01.jpg",
-                               "http://hotelpiornedo.s3.amazonaws.com/images/18.jpg",
-                               "http://hotelpiornedo.s3.amazonaws.com/images/44.jpg"
+                           "http://hotelpiornedo.s3.amazonaws.com/images/18.jpg",
+                           "http://hotelpiornedo.s3.amazonaws.com/images/44.jpg"
                                ], {duration: 6000, fade: 750} );
 
 

@@ -1,3 +1,16 @@
+.fr-thumbnails,.fr-thumbnails:before,.fr-thumbnails:after {
+-moz-box-sizing:content-box;
+-webkit-box-sizing:content-box;
+box-sizing: content-box;
+}
+
+.fr-close,.fr-close:before,.fr-close:after {
+-moz-box-sizing:content-box;
+-webkit-box-sizing:content-box;
+box-sizing: content-box;
+}
+
+
 /* Overlay */
 .fr-overlay {
   z-index: 99999;
@@ -10,9 +23,9 @@
   overlay: hidden;
 }
 .fr-overlay-background {
-  background: #000;
-  filter: alpha(opacity=90);
-  opacity: .9;
+  background: $white;
+  /*filter: alpha(opacity=90);
+  opacity: .9;*/
   float: left;
   width: 100%;
   height: 100%;
@@ -60,16 +73,16 @@
   height: 100%;
 }
 .fr-loading-background {
-  background: #0d0d0d url('/images/skins/loading.gif') 50% 50% no-repeat;
-  opacity: .8;
+  background: $white url('/images/skins/loading.gif') 50% 50% no-repeat;
+  /*opacity: .8;
   -webkit-border-radius: 3px;
-  border-radius: 3px;
+  border-radius: 3px;*/
   position: relative;
   float: left;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  border: 1px solid rgba(80,80,80,.2);
+  /*border: 1px solid rgba(80,80,80,.2);*/
 }
 .fr-loading-icon { display: none; }
 
@@ -130,9 +143,6 @@
 }
 
 .fr-mobile-touch-enabled .fr-frame .fr-box {
-  overflow: scroll !important;
-  -webkit-overflow-scrolling: touch;
-  overflow-scrolling: touch;
   position: absolute;
   top: 0;
   left: 0;
@@ -278,7 +288,7 @@
   top: 0;
   width: 50%;
   height: 100%;
-  background: url('/images/skins/blank.gif');
+  background: url(skins/blank.gif);
   overflow: hidden;
   cursor: pointer;
   z-index: 1;
@@ -553,11 +563,11 @@
   left: 12px;
   height: 23px;
   width: 23px;
-  filter: alpha(opacity=80);
+  /*filter: alpha(opacity=80);
   opacity: .8;
   -moz-transition: background-color .2s ease-in;
   -webkit-transition: background-color .2s ease-in;
-  transition: background-color .2s ease-in;
+  transition: background-color .2s ease-in;*/
   background-color: #282828;
   cursor: pointer;
 }
@@ -855,10 +865,10 @@
 .fr-touch-caption-wrapper {
   float: left;
   clear: both;
-  font-weight: normal;
+  /*font-weight: normal;
   font-family: "Lucida Sans Unicode", "Lucida Sans", "Lucida Grande", Verdana, Arial, sans-serif;
   font-size: 13px;
-  line-height: 21px;
+  line-height: 21px;*/
   height: 21px; /* same as line-height */
   width: 100%;
   overflow: hidden;
