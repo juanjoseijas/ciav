@@ -92,7 +92,7 @@ $container-style: fluid;
 
 
 @include at-breakpoint($large-columns) {
-
+	#header-wrap {@include span-columns(12,12);background-color: $white;}
 	#header {@include squish(1,0);padding-top:$base-line-height * 3;}
 	#banner {@include span-columns(6,11);}
 	#menu {@include span-columns(4,11);padding-right: 2em;  margin-bottom: $base-line-height * 3; border-right:$border;}
@@ -141,15 +141,27 @@ body {	background: $white;
 		p {padding-bottom: $base-line-height / 2;}
 		blockquote {font-family: "kepler-std"; border-left:$border; margin-top: $base-line-height; margin-bottom: $base-line-height; }
 
-		#header {
+		#header-wrap {
 
-			#menu {text-transform: lowercase;}
+			position:fixed;
+			top:0;
+			z-index: 1;
+			
+			
+
+
+
+			#header { #menu {text-transform: lowercase;} }
+
+
 
 		}
 
+		
+
 		#content {
 
-			
+			margin-top: $base-line-height * 14;
 
 			.bodytext {
 
