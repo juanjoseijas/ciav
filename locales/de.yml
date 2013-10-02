@@ -1,9 +1,9 @@
 ---
 de:
   site:
-    title: 'Centro de Interpretación y Atención al Visitantes de la Torre de Hércules en A Coruña,  España'
-    description: 'CIAV es un centro de interpretación de la Torre de Hércules y de atención a sus visitantes, con información sobre la evolución histórica y funcional de la Torre.'
-    keywords: 'torre de hércules, a coruña, coruña, la coruña, galicia, españa, faro, faro romano, hércules, heracles, gerión'
+    title: 'Informations Und Besucherzentrum, A Coruña,  España'
+    description: 'Das Zentrum ist der Erläuterung des Herkulesturms gewidmet und bietet Informationen über seine historische und funktionelle Entwicklung.'
+    keywords: 'Herkulesturm, A Coruña, Coruña, La coruña, Galicien, Spanien, Leuchtturm, römischer Leuchtturm, Herkules, heracles, Geryon, Ἡρακλῆς'
     author: 'Juanjo @ Efímera'
 
   locale:
@@ -18,42 +18,42 @@ de:
   layout:
     index: Portada
     about: CIAV
-    function: Función de Faro
-    building: Métodos constructivos
-    signatures: Firmas
-    time: El faro en el tiempo
-    rome: Época romana
-    environment: Entorno
-    mythology: Leyendas y huellas
+    function: Leuchtturmfunktion
+    building: Baumethoden
+    signatures: Inschriften
+    time: der leuchtturm im laufe der zeit
+    rome: Römische Zeit
+    environment: Umgebung
+    mythology: Legenden und Spuren
     howto: ¿cómo llegar?
 
   paths:
     index: "index"
     about: "ciav"
-    function: "funcion-de-faro"
-    building: "metodos-constructivos"
-    signatures: "firmas"
-    time: "el-faro-en-el-tiempo"
-    rome: "epoca-romana"
-    environment: "entorno"
-    mythology: "leyendas-y-huellas"
+    function: "leuchtturmfunktion"
+    building: "baumethoden"
+    signatures: "inschriften"
+    time: "der-leuchtturm-im laufe-der-zeit"
+    rome: "romische-zeit"
+    environment: "umgebung"
+    mythology: "legenden-und-spuren"
     howto: "como-llegar"
 
 
   menu:
     about: "CIAV"
-    function: "Función de faro"
-    building: "Métodos constructivos"
+    function: "Leuchtturmfunktion"
+    building: "Inschriften"
     signatures: "Firmas"
-    time: "El faro en el tiempo"
-    rome: "Época romana"
-    environment: "Entorno"
-    mythology: "Leyendas y huellas"
+    time: "Der Leuchtturm im laufe der Zeit"
+    rome: "Römische Zeit"
+    environment: "Umgebung"
+    mythology: "Legenden und Spuren"
 
 
   text:
-    show-menu: "Menú"
-    show-lang: "Idiomas"
+    show-menu: "Menü"
+    show-lang: "Sprachen"
     googlemap: "Mostrar ruta en Google Maps desde donde estás ahora"
     name: "Nombre"
     email: "Email"
