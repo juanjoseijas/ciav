@@ -1,0 +1,7 @@
+Con el fin de establecer contactos comerciales, en el año 61 a. de C., Julio César dirigió una la expedición que llegó por mar a Brigantium. Este desembarco dio lugar a la fundación de un establecimiento colonial estratégico en los límites del imperio y después, en un importante puerto de la retaguardia durante las Guerras Cántabras. 
+
+Durante la paz de Augusto se fueron incrementando las relaciones comerciales lo que supuso el desarrollo de la estructura viaria y el aumento del tráfico marítimo que favoreció el proceso de romanización. En este contexto, el noroeste peninsular se convirtió en un territorio fundamental y el puerto de Brigantium, en uno de los principales puntos de arribada de la vía XX, donde se refugiaron las armadas romanas en su camino a la conquista de Britania. 
+
+Este interés militar sirvió para que el Imperio Romano justificara la construcción del faro. Hasta el momento, la navegación desde Gibraltar hasta Fisterra se producía paralela a la costa, a unas pocas millas del litoral, siguiendo per loca marítima. Sin embargo, en Brigantium debían orientar las proas de sus barcos hacia el canal de la Mancha y los territorios del norte, adentrándose en un mar abierto, muy batido y peligroso. 
+
+Desde su construcción sigue cumpliendo la misión de orientar y dirigir a los navegantes en la inmensidad del océano. 

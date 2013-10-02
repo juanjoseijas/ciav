@@ -1,0 +1,66 @@
+---
+fr:
+  site:
+    title: 'Centro de Interpretación y Atención al Visitantes de la Torre de Hércules en A Coruña,  España'
+    description: 'CIAV es un centro de interpretación de la Torre de Hércules y de atención a sus visitantes, con información sobre la evolución histórica y funcional de la Torre.'
+    keywords: 'torre de hércules, a coruña, coruña, la coruña, galicia, españa, faro, faro romano, hércules, heracles, gerión'
+    author: 'Juanjo @ Efímera'
+
+  locale:
+    es: español
+    en: english
+    gl: galego
+    fr: français
+    it: italiano
+    pt: português
+    de: deutsch
+
+  layout:
+    index: Portada
+    about: CIAV
+    function: Función de Faro
+    building: Métodos constructivos
+    signatures: Firmas
+    time: El faro en el tiempo
+    rome: Época romana
+    environment: Entorno
+    mythology: Leyendas y huellas
+    howto: ¿cómo llegar?
+
+  paths:
+    index: "index"
+    about: "ciav"
+    function: "funcion-de-faro"
+    building: "metodos-constructivos"
+    signatures: "firmas"
+    time: "el-faro-en-el-tiempo"
+    rome: "epoca-romana"
+    environment: "entorno"
+    mythology: "leyendas-y-huellas"
+    howto: "como-llegar"
+
+
+  menu:
+    about: "CIAV"
+    function: "Función de faro"
+    building: "Métodos constructivos"
+    signatures: "Firmas"
+    time: "El faro en el tiempo"
+    rome: "Época romana"
+    environment: "Entorno"
+    mythology: "Leyendas y huellas"
+
+
+  text:
+    show-menu: "Menú"
+    show-lang: "Idiomas"
+    googlemap: "Mostrar ruta en Google Maps desde donde estás ahora"
+    name: "Nombre"
+    email: "Email"
+    follow-us: "Síguenos en"
+    tag: "Comparte tus fotos con nosotros en instagram o twitter con el hashtag #ciav"
+    subscription: "Quiero subscribirme"
+    newsletter_legend: "Subscríbete a nuestra newsletter"
+    newsletter_description: "Nuestro newsletter es una manera de mantenermos en contacto contigo: no facilitamos tus datos a nadie, y sólo te mandaremos un email mensual con novedades y ofertas."
+
+
