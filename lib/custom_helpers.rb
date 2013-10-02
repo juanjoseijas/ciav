@@ -38,11 +38,6 @@ module CustomHelpers
     markup.join(' ')
   end
 
-  def gravatar_for email_address, size = 80
-    hash = Digest::MD5.hexdigest(email_address.downcase)
-
-    "http://www.gravatar.com/avatar/#{hash}?s=#{size}"
-  end
 
   # -- Paths --
   def locale_base_path

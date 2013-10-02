@@ -16,7 +16,8 @@ page "/404.html", :directory_index => false
 set :markdown_engine, :redcarpet
 set :markdown, :autolink => true,
                :tables => true,
-               :fenced_code_blocks => true
+               :fenced_code_blocks => true,
+               :footnotes => true
 
 ###
 # Compass

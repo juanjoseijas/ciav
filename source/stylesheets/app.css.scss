@@ -92,8 +92,8 @@ blockquote {padding-left: $gutter-width;}
 	article {
 			 
 
-			 aside {@include span-columns(3,6);}
-			 .bodytext {@include span-columns(3 omega,6); padding-right: 2em; padding-bottom: $base-line-height * 6; border-right:$border;}
+			 aside {@include span-columns(6,6);}
+			 .bodytext {@include span-columns(5 omega,6); padding-right: 2em; padding-bottom: $base-line-height * 6;}
 			 blockquote {@include prefix(1); }
 			}
 
@@ -184,6 +184,7 @@ body {	background: $white;
 
 				img {	padding-top: $base-line-height; }
 				a {font-weight: bold;}
+			
 
 			}
 		}

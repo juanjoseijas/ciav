@@ -40,15 +40,18 @@ $( "#languages .showmenu" ).click(function() {
 // Fresco
 
  $( ".bodytext a:has(img)" ).addClass( "fresco" );
+ 
 
 
 
 // Backstretch
 
 
-  $("body.index, body.en_index, body.fr_index, body.de_index, body.pt_index, body.it_index, body.gl_index").backstretch(["http://ciav.s3.amazonaws.com/img/function01.jpg",
-                           "http://hotelpiornedo.s3.amazonaws.com/images/18.jpg",
-                           "http://hotelpiornedo.s3.amazonaws.com/images/44.jpg"
+  $("body.index, body.en_index, body.fr_index, body.de_index, body.pt_index, body.it_index, body.gl_index").backstretch([
+                           "http://ciav.s3.amazonaws.com/img/_DSC3214.jpg",
+                           "http://ciav.s3.amazonaws.com/img/_DSC3250.jpg",
+                           "http://ciav.s3.amazonaws.com/img/function01.jpg"
+
                                ], {duration: 6000, fade: 750} );
 
 
