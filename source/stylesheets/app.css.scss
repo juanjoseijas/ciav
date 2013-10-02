@@ -71,14 +71,15 @@ $container-style: fluid;
 
 // --------------------------------------------
 // small
-#header-wrap {@include span-columns(2,2);}
 
+#header-wrap {@include span-columns(2,2);}
+#cover {@include span-columns(12,12);height: $base-line-height * 30;}
 #menu {@include span-columns(1,2);}
 #languages {@include span-columns(1 omega,2);text-align: right;}
 #navigation-menu {display: none;}
 #navigation-languages {display:none;}
 #header {padding:$gutter-width / 2;}
-#content {padding:$gutter-width / 2; margin-top: $base-line-height * 4;}
+#content {padding:$gutter-width / 2;}
 blockquote {padding-left: $gutter-width;}
 
 
@@ -90,7 +91,7 @@ blockquote {padding-left: $gutter-width;}
 @include at-breakpoint($medium-columns) {
 
 	#header-wrap {@include span-columns(6,6);}
-
+	#cover {@include span-columns(12,12);height: $base-line-height * 50;}
 	article {
 			 
 
@@ -108,14 +109,14 @@ blockquote {padding-left: $gutter-width;}
 
 
 @include at-breakpoint($large-columns) {
-	#header-wrap {@include span-columns(12,12);}
-	#header {@include squish(1,0);padding-top:$base-line-height * 3;}
+	#header-wrap {@include span-columns(12,12); position:fixed; top:0; z-index: 1; background: $white;}
+	#header {@include squish(1,0);}
 	#banner {@include span-columns(6,11);}
 	#menu {@include span-columns(4,11);padding-right: 2em;  margin-bottom: $base-line-height * 3; border-right:$border;}
 	#languages {@include span-columns(1 omega,11);text-align: left;}
 	#navigation-menu {display: block;}
 	#navigation-languages {display:block;}
-
+	#cover {@include span-columns(12,12);height: $base-line-height * 50;}
 	#content {@include span-columns(12,12);margin-top: $base-line-height * 15;}
 	
 	#slideshow {@include span-columns(6,10);}
@@ -142,6 +143,7 @@ body {	background: $white;
 		font-family: "futura-pt",sans-serif;
 		-webkit-font-smoothing: $fontSmoothing; 
 		color: $graydark;
+
 		padding-bottom: $base-line-height * 6;
 		a {text-decoration:none;
 		   color:$link;}
@@ -157,17 +159,14 @@ body {	background: $white;
 
 		#header-wrap {
 
-			position:fixed;
-			top:0;
-			z-index: 1;
-			background: $white;
+			
 			
 			
 			
 
 
 
-			#header {
+			#header { padding-top: $base-line-height * 2;
 
 				#banner {
 

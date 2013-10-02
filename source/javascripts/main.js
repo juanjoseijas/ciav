@@ -49,7 +49,7 @@ $( "#languages .showmenu" ).click(function() {
 // Backstretch
 
 
-  $("body.index, body.en_index, body.fr_index, body.de_index, body.pt_index, body.it_index, body.gl_index").backstretch([
+  $("#cover").backstretch([
                            "http://ciav.s3.amazonaws.com/img/_DSC3214.jpg",
                            "http://ciav.s3.amazonaws.com/img/_DSC3250.jpg",
                            "http://ciav.s3.amazonaws.com/img/function01.jpg"
