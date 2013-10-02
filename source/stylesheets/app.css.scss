@@ -72,6 +72,7 @@ $container-style: fluid;
 // --------------------------------------------
 // small
 #header-wrap {@include span-columns(2,2);}
+
 #menu {@include span-columns(1,2);}
 #languages {@include span-columns(1 omega,2);text-align: right;}
 #navigation-menu {display: none;}
@@ -89,6 +90,7 @@ blockquote {padding-left: $gutter-width;}
 @include at-breakpoint($medium-columns) {
 
 	#header-wrap {@include span-columns(6,6);}
+
 	article {
 			 
 
@@ -165,7 +167,29 @@ body {	background: $white;
 
 
 
-			#header { 
+			#header {
+
+				#banner {
+
+					.logo {
+						width: $base-line-height * 5;
+  						height: $base-line-height * 5;
+  						
+  						text-align: center;
+  						text-transform: uppercase;
+  						font-size: 2em;
+  						padding-top: $base-font-size * 2.5;
+  						border: $border;
+  						margin-bottom: $base-line-height;
+  						@include border-radius($base-line-height * 2.5);
+  					}
+
+  					h2 {padding-bottom: $base-line-height;}
+
+
+
+				}
+				
 				.showmenu {color:$yellow;}
 				#menu {text-transform: lowercase; }
 				#languages {text-transform: lowercase; } }
