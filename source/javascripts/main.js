@@ -40,6 +40,11 @@ $( "#languages .showmenu" ).click(function() {
 // Fresco
 
  $( ".bodytext a:has(img)" ).addClass( "fresco" );
+
+
+// Photoset-grid
+
+ $('.photoset-grid').photosetGrid();
  
 
 

@@ -1,6 +1,10 @@
 El actual Centro de Interpretación y Atención al Visitante (CIAV) de la Torre de Hércules, cuyo contenido se presenta a través de esta guía, se sitúa a los pies de la rampa que da acceso al edificio. Destinado a recibir y proporcionar al visitante información histórica y actual relacionada con el monumento y su entorno, está compuesto por dos cubículos.
 
+<div class="photoset-grid" data-layout="2">
 <a href="http://ciav.s3.amazonaws.com/img/_DSC3302.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Cubículos CIAV"><img src="http://ciav.s3.amazonaws.com/img/_DSC3302.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/panorama.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Interior CIAV"><img src="http://ciav.s3.amazonaws.com/img/panorama.jpg"></a>
+
+</div>
 
 En la entrada, una escultura de Hércules, realizada por [Francisco Leiro](http://es.wikipedia.org/wiki/Francisco_Leiro_Lois), da la bienvenida al visitante. A su derecha, se sitúa un espacio de recepción atendido por personal especializado, donde también se pueden encontrar distintos folletos con información sobre la Torre, el CIAV y recursos turísticos de la ciudad. 
 
