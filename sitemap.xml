@@ -7,13 +7,101 @@
   
   <url>
     <loc>http://volapuk.es/404.html</loc>
-    <lastmod>2013-09-26</lastmod>
+    <lastmod>2013-10-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/it/epoca-romana/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/pt/el-faro-en-el-tiempo/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/it/el-faro-en-el-tiempo/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/gl/el-faro-en-el-tiempo/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/fr/el-faro-en-el-tiempo/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
     
   </url>
   
   <url>
     <loc>http://volapuk.es/el-faro-en-el-tiempo/</loc>
-    <lastmod>2013-09-26</lastmod>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/en/el-faro-en-el-tiempo/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/de/el-faro-en-el-tiempo/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/pt/firmas/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/it/firmas/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/gl/firmas/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/fr/firmas/</loc>
+    <lastmod>2013-10-02</lastmod>
     
       <priority>1.0</priority>
     
@@ -21,55 +109,47 @@
   
   <url>
     <loc>http://volapuk.es/firmas/</loc>
-    <lastmod>2013-09-26</lastmod>
+    <lastmod>2013-10-02</lastmod>
     
       <priority>1.0</priority>
     
   </url>
   
   <url>
-    <loc>http://volapuk.es/epoca-romana/</loc>
-    <lastmod>2013-09-26</lastmod>
+    <loc>http://volapuk.es/en/firmas/</loc>
+    <lastmod>2013-10-02</lastmod>
     
       <priority>1.0</priority>
     
   </url>
   
   <url>
-    <loc>http://volapuk.es/leyendas-y-huellas/</loc>
-    <lastmod>2013-09-26</lastmod>
+    <loc>http://volapuk.es/de/firmas/</loc>
+    <lastmod>2013-10-02</lastmod>
     
       <priority>1.0</priority>
     
   </url>
   
   <url>
-    <loc>http://volapuk.es/</loc>
-    <lastmod>2013-09-26</lastmod>
+    <loc>http://volapuk.es/pt/epoca-romana/</loc>
+    <lastmod>2013-10-02</lastmod>
     
       <priority>1.0</priority>
     
   </url>
   
   <url>
-    <loc>http://volapuk.es/funcion-de-faro/</loc>
-    <lastmod>2013-09-26</lastmod>
+    <loc>http://volapuk.es/de/metodos-constructivos/</loc>
+    <lastmod>2013-10-02</lastmod>
     
       <priority>1.0</priority>
     
   </url>
   
   <url>
-    <loc>http://volapuk.es/entorno/</loc>
-    <lastmod>2013-09-26</lastmod>
-    
-      <priority>1.0</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://volapuk.es/ciav/</loc>
-    <lastmod>2013-09-26</lastmod>
+    <loc>http://volapuk.es/en/metodos-constructivos/</loc>
+    <lastmod>2013-10-02</lastmod>
     
       <priority>1.0</priority>
     
@@ -77,7 +157,359 @@
   
   <url>
     <loc>http://volapuk.es/metodos-constructivos/</loc>
-    <lastmod>2013-09-26</lastmod>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/fr/metodos-constructivos/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/gl/metodos-constructivos/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/it/metodos-constructivos/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/pt/metodos-constructivos/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/de/ciav/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/en/ciav/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/ciav/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/fr/ciav/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/gl/ciav/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/it/ciav/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/pt/ciav/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/de/entorno/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/en/entorno/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/entorno/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/fr/entorno/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/gl/entorno/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/it/entorno/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/pt/entorno/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/de/funcion-de-faro/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/en/funcion-de-faro/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/funcion-de-faro/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/fr/funcion-de-faro/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/gl/funcion-de-faro/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/it/funcion-de-faro/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/pt/funcion-de-faro/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/de/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/en/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/fr/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/gl/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/it/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/pt/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/de/leyendas-y-huellas/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/en/leyendas-y-huellas/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/leyendas-y-huellas/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/fr/leyendas-y-huellas/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/gl/leyendas-y-huellas/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/it/leyendas-y-huellas/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/pt/leyendas-y-huellas/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/de/epoca-romana/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/en/epoca-romana/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/epoca-romana/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/fr/epoca-romana/</loc>
+    <lastmod>2013-10-02</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/gl/epoca-romana/</loc>
+    <lastmod>2013-10-02</lastmod>
     
       <priority>1.0</priority>
     

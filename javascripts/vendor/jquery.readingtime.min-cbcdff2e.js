@@ -1,1 +1,0 @@
-!function(t){t.fn.readingtime=function(n){var r=t.extend({wpm:250,round:"round"},n),e=t.trim(this.first().text()).split(/\s+/).length;return Math[r.round](e/r.wpm)}}(jQuery);
