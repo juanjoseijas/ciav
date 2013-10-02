@@ -1,9 +1,9 @@
 ---
 en:
   site:
-    title: 'Centro de Interpretación y Atención al Visitantes de la Torre de Hércules en A Coruña,  España'
-    description: 'CIAV es un centro de interpretación de la Torre de Hércules y de atención a sus visitantes, con información sobre la evolución histórica y funcional de la Torre.'
-    keywords: 'torre de hércules, a coruña, coruña, la coruña, galicia, españa, faro, faro romano, hércules, heracles, gerión'
+    title: 'Tower of Hercules Visitor Services and Interpretive Center, A Coruña,  España'
+    description: 'Welcome to CIAV, an interpretive center dedicated to the Tower of Hercules, with information about its historical evolution and operation.'
+    keywords: 'tower of hércules, a coruña, coruña, la coruña, galicia, spain, lighthouse, roman lighthouse, hercules, heracles, geryon'
     author: 'Juanjo @ Efímera'
 
   locale:
@@ -16,48 +16,48 @@ en:
     de: deutsch
 
   layout:
-    index: Portada
+    index: Home
     about: CIAV
-    function: Función de Faro
-    building: Métodos constructivos
-    signatures: Firmas
-    time: El faro en el tiempo
-    rome: Época romana
-    environment: Entorno
-    mythology: Leyendas y huellas
-    howto: ¿cómo llegar?
+    function: Operation of the Lighthouse
+    building: Construction Methods
+    signatures: Signatures
+    time: The Lighthouse through Time
+    rome: The Roman Era
+    environment: Surroundings
+    mythology: Legends and Stories
+    howto: How to get there?
 
   paths:
     index: "index"
     about: "ciav"
-    function: "funcion-de-faro"
-    building: "metodos-constructivos"
-    signatures: "firmas"
-    time: "el-faro-en-el-tiempo"
-    rome: "epoca-romana"
-    environment: "entorno"
-    mythology: "leyendas-y-huellas"
-    howto: "como-llegar"
+    function: "operation-of-the-lighthouse"
+    building: "construction-methods"
+    signatures: "signatures"
+    time: "the-lighthouse-through-time"
+    rome: "the-roman-era"
+    environment: "surroundings"
+    mythology: "legends-and-stories"
+    howto: "how-to-get-there"
 
 
   menu:
     about: "CIAV"
-    function: "Función de faro"
-    building: "Métodos constructivos"
-    signatures: "Firmas"
-    time: "El faro en el tiempo"
-    rome: "Época romana"
-    environment: "Entorno"
-    mythology: "Leyendas y huellas"
+    function: "Operation of the Lighthouse"
+    building: "Construction Methods"
+    signatures: "Signatures"
+    time: "The Lighthouse through Time"
+    rome: "The Roman Era"
+    environment: "Surroundings"
+    mythology: "How to get there?"
 
 
   text:
-    show-menu: "Menú"
-    show-lang: "Idiomas"
+    show-menu: "Menu"
+    show-lang: "Languages"
     googlemap: "Mostrar ruta en Google Maps desde donde estás ahora"
-    name: "Nombre"
+    name: "Name"
     email: "Email"
-    follow-us: "Síguenos en"
+    follow-us: "Follow us"
     tag: "Comparte tus fotos con nosotros en instagram o twitter con el hashtag #ciav"
     subscription: "Quiero subscribirme"
     newsletter_legend: "Subscríbete a nuestra newsletter"
