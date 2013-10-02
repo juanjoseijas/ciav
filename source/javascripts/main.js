@@ -1,7 +1,4 @@
-// Reading Time
 
-
-$("article").readingtime();
 
 
 // 
