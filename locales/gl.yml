@@ -1,9 +1,9 @@
 ---
 gl:
   site:
-    title: 'Centro de Interpretación y Atención al Visitantes de la Torre de Hércules en A Coruña,  España'
-    description: 'CIAV es un centro de interpretación de la Torre de Hércules y de atención a sus visitantes, con información sobre la evolución histórica y funcional de la Torre.'
-    keywords: 'torre de hércules, a coruña, coruña, la coruña, galicia, españa, faro, faro romano, hércules, heracles, gerión'
+    title: 'Centro de Interpretación e Atención o visitante da Torre de Hércules na Coruña, España'
+    description: 'Benvidos a web do CIAV, centro dedicado á interpretación da Torre de Hércules, con información sobre a súa evolución histórica e funcional.'
+    keywords: 'torre de hércules, a coruña, coruña, la coruña, galicia, españa, faro, faro romano, hércules, heracles, xerión'
     author: 'Juanjo @ Efímera'
 
   locale:
@@ -19,41 +19,41 @@ gl:
     index: Portada
     about: CIAV
     function: Función de Faro
-    building: Métodos constructivos
-    signatures: Firmas
-    time: El faro en el tiempo
+    building: Métodos construtivos
+    signatures: Sinaturas
+    time: O faro no tempo
     rome: Época romana
-    environment: Entorno
-    mythology: Leyendas y huellas
+    environment: A contorna
+    mythology: Lendas e pegadas
     howto: ¿cómo llegar?
 
   paths:
     index: "index"
     about: "ciav"
     function: "funcion-de-faro"
-    building: "metodos-constructivos"
-    signatures: "firmas"
-    time: "el-faro-en-el-tiempo"
+    building: "metodos-construtivos"
+    signatures: "sinaturas"
+    time: "o-faro-no-tempo"
     rome: "epoca-romana"
-    environment: "entorno"
-    mythology: "leyendas-y-huellas"
+    environment: "a-contorna"
+    mythology: "lendas-e-pegadas"
     howto: "como-llegar"
 
 
   menu:
     about: "CIAV"
     function: "Función de faro"
-    building: "Métodos constructivos"
-    signatures: "Firmas"
-    time: "El faro en el tiempo"
+    building: "Métodos construtivos"
+    signatures: "Sinaturas"
+    time: "O faro no tempo"
     rome: "Época romana"
-    environment: "Entorno"
-    mythology: "Leyendas y huellas"
+    environment: "A contorna"
+    mythology: "Lendas e pegadas"
 
 
   text:
     show-menu: "Menú"
-    show-lang: "Idiomas"
+    show-lang: "Linguas"
     googlemap: "Mostrar ruta en Google Maps desde donde estás ahora"
     name: "Nombre"
     email: "Email"
