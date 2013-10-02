@@ -1,9 +1,9 @@
 ---
 pt:
   site:
-    title: 'Centro de Interpretación y Atención al Visitantes de la Torre de Hércules en A Coruña,  España'
-    description: 'CIAV es un centro de interpretación de la Torre de Hércules y de atención a sus visitantes, con información sobre la evolución histórica y funcional de la Torre.'
-    keywords: 'torre de hércules, a coruña, coruña, la coruña, galicia, españa, faro, faro romano, hércules, heracles, gerión'
+    title: 'Centro de Interpretaçao e atendimento ao visitante, A Corunha,  Espanha'
+    description: 'Centro dedicado à interpretação da Torre de Hércules, com informação sobre a sua evolução histórica e funcional.'
+    keywords: 'torre de hércules, a corunha, corunha, galiza, espanha, farol, farol romano, hércules, heracles, gerião'
     author: 'Juanjo @ Efímera'
 
   locale:
@@ -18,42 +18,42 @@ pt:
   layout:
     index: Portada
     about: CIAV
-    function: Función de Faro
-    building: Métodos constructivos
-    signatures: Firmas
-    time: El faro en el tiempo
+    function: Função de farol
+    building: Métodos de construção
+    signatures: Assinaturas
+    time: O farol ao longo do tempo
     rome: Época romana
-    environment: Entorno
-    mythology: Leyendas y huellas
+    environment: Ambiente circundante
+    mythology: Lendas e trilhos
     howto: ¿cómo llegar?
 
   paths:
     index: "index"
     about: "ciav"
-    function: "funcion-de-faro"
-    building: "metodos-constructivos"
-    signatures: "firmas"
-    time: "el-faro-en-el-tiempo"
+    function: "funcao-de-farol"
+    building: "metodos-de-construcao"
+    signatures: "assinaturas"
+    time: "o-farol-ao-longo-do-tempo"
     rome: "epoca-romana"
-    environment: "entorno"
-    mythology: "leyendas-y-huellas"
+    environment: "ambiente-circundante"
+    mythology: "lendas-e-trilhoss"
     howto: "como-llegar"
 
 
   menu:
     about: "CIAV"
-    function: "Función de faro"
-    building: "Métodos constructivos"
-    signatures: "Firmas"
-    time: "El faro en el tiempo"
+    function: "Função de farol"
+    building: "Métodos de construção"
+    signatures: "Assinaturas"
+    time: "O farol ao longo do tempo"
     rome: "Época romana"
-    environment: "Entorno"
-    mythology: "Leyendas y huellas"
+    environment: "Ambiente circundante"
+    mythology: "Lendas e trilhos"
 
 
   text:
-    show-menu: "Menú"
-    show-lang: "Idiomas"
+    show-menu: "Menu"
+    show-lang: "Línguas"
     googlemap: "Mostrar ruta en Google Maps desde donde estás ahora"
     name: "Nombre"
     email: "Email"
