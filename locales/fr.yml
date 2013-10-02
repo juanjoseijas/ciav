@@ -1,9 +1,9 @@
 ---
 fr:
   site:
-    title: 'Centro de Interpretación y Atención al Visitantes de la Torre de Hércules en A Coruña,  España'
-    description: 'CIAV es un centro de interpretación de la Torre de Hércules y de atención a sus visitantes, con información sobre la evolución histórica y funcional de la Torre.'
-    keywords: 'torre de hércules, a coruña, coruña, la coruña, galicia, españa, faro, faro romano, hércules, heracles, gerión'
+    title: "Centre d'interpretation et d'accueil des visiteurs, La Corogne, Espagne"
+    description: 'Centre d’interprétation de la Tour d’Hercule offrant des informations sur l’histoire et la fonction du phare depuis sa création jusqu’à nos jours.'
+    keywords: 'Tour d’Hercule, la corogne, galice, espagne, phare, phare romain, Héraclès, Géryon'
     author: 'Juanjo @ Efímera'
 
   locale:
@@ -18,42 +18,42 @@ fr:
   layout:
     index: Portada
     about: CIAV
-    function: Función de Faro
-    building: Métodos constructivos
-    signatures: Firmas
-    time: El faro en el tiempo
-    rome: Época romana
-    environment: Entorno
-    mythology: Leyendas y huellas
+    function: la fonction du phare
+    building: Méthodes de construction
+    signatures: Les signatures
+    time: Le phare au fil du temps
+    rome: L'époque romaine
+    environment: L'environment
+    mythology: Légendes et traces du passé
     howto: ¿cómo llegar?
 
   paths:
     index: "index"
     about: "ciav"
-    function: "funcion-de-faro"
-    building: "metodos-constructivos"
-    signatures: "firmas"
-    time: "el-faro-en-el-tiempo"
-    rome: "epoca-romana"
-    environment: "entorno"
-    mythology: "leyendas-y-huellas"
+    function: "la-fonction-du-phare"
+    building: "methodes-de-construction"
+    signatures: "les-signatures"
+    time: "le-phare-au-fil-du-temps"
+    rome: "epoque-romaine"
+    environment: "environment"
+    mythology: "legendes-et-traces-du-passe"
     howto: "como-llegar"
 
 
   menu:
     about: "CIAV"
-    function: "Función de faro"
-    building: "Métodos constructivos"
-    signatures: "Firmas"
-    time: "El faro en el tiempo"
-    rome: "Época romana"
-    environment: "Entorno"
-    mythology: "Leyendas y huellas"
+    function: "La fonction du phare"
+    building: "Méthodes de construction"
+    signatures: "Les signatures"
+    time: "Le phare au fil du temps"
+    rome: "L'époque romaine"
+    environment: "L'environment"
+    mythology: "Légendes et traces du passé"
 
 
   text:
-    show-menu: "Menú"
-    show-lang: "Idiomas"
+    show-menu: "Menu"
+    show-lang: "Langues"
     googlemap: "Mostrar ruta en Google Maps desde donde estás ahora"
     name: "Nombre"
     email: "Email"
