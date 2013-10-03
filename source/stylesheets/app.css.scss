@@ -80,6 +80,7 @@ $container-style: fluid;
 #navigation-languages {display:none;}
 #header {padding:$gutter-width / 2;}
 #content {padding:$gutter-width / 2;}
+#footer {padding:$gutter-width / 2;}
 blockquote {padding-left: $gutter-width;}
 
 
@@ -120,6 +121,9 @@ blockquote {padding-left: $gutter-width;}
 	#content {@include span-columns(12,12);margin-top: $base-line-height * 15;}
 	
 	#slideshow {@include span-columns(6,10);}
+	#footer {@include squish(1,0);
+		nav {@include pre(7);}
+	}
 	
 	
 
@@ -212,6 +216,8 @@ body {	background: $white;
 
 			}
 		}
+
+		#footer {padding-top:0;margin-top:0;}
 
 	}
 

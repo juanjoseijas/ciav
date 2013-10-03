@@ -56,8 +56,8 @@ module CustomHelpers
     page_path 'index'
   end
 
-  def projects_path
-    page_path 'projects'
+  def legal_path
+    page_path 'legal'
   end
 
   def contact_path

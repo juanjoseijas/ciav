@@ -26,6 +26,7 @@ gl:
     environment: A contorna
     mythology: Lendas e pegadas
     howto: ¿cómo llegar?
+    legal: Aviso legal
 
   paths:
     index: "index"
@@ -38,6 +39,7 @@ gl:
     environment: "a-contorna"
     mythology: "lendas-e-pegadas"
     howto: "como-llegar"
+    legal: "aviso-legal"
 
 
   menu:
@@ -49,6 +51,7 @@ gl:
     rome: "Época romana"
     environment: "A contorna"
     mythology: "Lendas e pegadas"
+    legal: "Aviso legal"
 
 
   text:

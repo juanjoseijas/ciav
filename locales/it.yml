@@ -26,6 +26,7 @@ it:
     environment: Dintorni
     mythology: Leggende e orme del passato
     howto: ¿cómo llegar?
+    legal:
 
   paths:
     index: "index"
@@ -38,6 +39,7 @@ it:
     environment: "dintorni"
     mythology: "leggende-e-orme-del-passato"
     howto: "como-llegar"
+    legal: ""
 
 
   menu:
@@ -49,6 +51,7 @@ it:
     rome: "Epoca romana"
     environment: "Dintorni"
     mythology: "Leggende e orme del passato"
+    legal: ""
 
 
   text:

@@ -26,6 +26,7 @@ pt:
     environment: Ambiente circundante
     mythology: Lendas e trilhos
     howto: ¿cómo llegar?
+    legal: 
 
   paths:
     index: "index"
@@ -38,6 +39,7 @@ pt:
     environment: "ambiente-circundante"
     mythology: "lendas-e-trilhoss"
     howto: "como-llegar"
+    legal: ""
 
 
   menu:
@@ -49,6 +51,7 @@ pt:
     rome: "Época romana"
     environment: "Ambiente circundante"
     mythology: "Lendas e trilhos"
+    legal: ""
 
 
   text:

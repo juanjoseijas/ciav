@@ -26,6 +26,7 @@ es:
     environment: Entorno
     mythology: Leyendas y huellas
     howto: ¿cómo llegar?
+    legal: Aviso legal
 
   paths:
     index: "index"
@@ -38,6 +39,7 @@ es:
     environment: "entorno"
     mythology: "leyendas-y-huellas"
     howto: "como-llegar"
+    legal: "aviso-legal"
 
 
   menu:
@@ -49,6 +51,7 @@ es:
     rome: "Época romana"
     environment: "Entorno"
     mythology: "Leyendas y huellas"
+    legal: "Aviso legal"
 
 
   text:

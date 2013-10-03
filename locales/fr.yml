@@ -26,6 +26,7 @@ fr:
     environment: L'environment
     mythology: Légendes et traces du passé
     howto: ¿cómo llegar?
+    legal: 
 
   paths:
     index: "index"
@@ -38,6 +39,7 @@ fr:
     environment: "environment"
     mythology: "legendes-et-traces-du-passe"
     howto: "como-llegar"
+    legal: ""
 
 
   menu:
@@ -49,6 +51,7 @@ fr:
     rome: "L'époque romaine"
     environment: "L'environment"
     mythology: "Légendes et traces du passé"
+    legal: ""
 
 
   text:

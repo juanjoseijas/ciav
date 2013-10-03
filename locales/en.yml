@@ -26,6 +26,7 @@ en:
     environment: Surroundings
     mythology: Legends and Stories
     howto: How to get there?
+    legal: Legal Advice
 
   paths:
     index: "index"
@@ -38,6 +39,7 @@ en:
     environment: "surroundings"
     mythology: "legends-and-stories"
     howto: "how-to-get-there"
+    legal: "legal-advice"
 
 
   menu:
@@ -49,6 +51,7 @@ en:
     rome: "The Roman Era"
     environment: "Surroundings"
     mythology: "How to get there?"
+    legal: "Legal advice"
 
 
   text:

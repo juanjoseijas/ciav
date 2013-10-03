@@ -26,6 +26,7 @@ de:
     environment: Umgebung
     mythology: Legenden und Spuren
     howto: ¿cómo llegar?
+    legal: Rechtsberatung
 
   paths:
     index: "index"
@@ -38,6 +39,7 @@ de:
     environment: "umgebung"
     mythology: "legenden-und-spuren"
     howto: "como-llegar"
+    legal: "rechtsberatung"
 
 
   menu:
@@ -49,6 +51,7 @@ de:
     rome: "Römische Zeit"
     environment: "Umgebung"
     mythology: "Legenden und Spuren"
+    legal: "Rechtsberatung"
 
 
   text:
