@@ -100,6 +100,9 @@ blockquote {padding-left: $gutter-width;}
 			 .bodytext {@include span-columns(5 omega,6); padding-right: 2em; padding-bottom: $base-line-height * 6;}
 			 blockquote {@include prefix(1); }
 			}
+	#footer {@include span-columns(6,6);
+		nav {@include span-columns(5 omega,6);}
+	}
 
 }
 
@@ -121,8 +124,8 @@ blockquote {padding-left: $gutter-width;}
 	#content {@include span-columns(12,12);margin-top: $base-line-height * 15;}
 	
 	#slideshow {@include span-columns(6,10);}
-	#footer {@include squish(1,0);
-		nav {@include pre(7);}
+	#footer {@include span-columns(12,12);
+		nav {@include span-columns(5 omega,12);}
 	}
 	
 	

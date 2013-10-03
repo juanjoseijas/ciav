@@ -1,0 +1,22 @@
+---
+title: legal
+layout: layout
+priority: 1.0
+---
+
+<article itemscope itemtype="http://schema.org/Article">
+	<aside>			
+	</aside>
+	<div class="bodytext">
+		<header>
+			<hgroup>
+				<h1 itemprop="name"><%= I18n.t('layout.legal') %></h1>
+			</hgroup>
+		</header>
+		<section>
+			<%= partial "content/#{I18n.locale}/legal" %>
+		</section>
+		<footer>
+		</footer>
+	</div>
+</article>

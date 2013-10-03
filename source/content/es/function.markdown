@@ -4,11 +4,20 @@ Para su ubicación se eligió Punta Eiras, situada en el extremo de la penínsul
 
 Según las últimas investigaciones, la luz que desprendía el faro estaba alimentada por una lámpara de aceite de grandes dimensiones sobre la que se colocaba una piedra horadada de la que salía una mecha, que una vez encendida proyectaba la luz sobre un espejo parabólico. El mecanismo podría ser móvil gracias a un sistema hidráulico lo que facilitaba que la intermitencia de la luz emitida se interpretase como una señal marítima.
 
+<div class="photoset-grid" data-layout="2">
+<a href="http://ciav.s3.amazonaws.com/img/teixera-map.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Mapa de Pedro Teixeira"><img src="http://ciav.s3.amazonaws.com/img/teixera-map.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/cornide-y-ximeno.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Bahía de La Coruña. José Cornide y J. Ximeno. 1792. Investigaciones sobre la fundación y fábrica de la Torre de Hércules.AMC. Concello de A Coruña."><img src="http://ciav.s3.amazonaws.com/img/cornide-y-ximeno.jpg"></a>
+</div>
+
 Entre los siglos V y XV, distintas fuentes señalan que la Torre podría haber cumplido una doble función, la de fortaleza y la de faro. Previamente a la reforma neoclásica, en 1684 se construyó una escalera interior y dos pequeñas torres con faroles.
 
-[![Cornide y Ximeno](http://ciav.s3.amazonaws.com/img/cornide-y-ximeno.jpg "Bahía de La Coruña. José Cornide y J. Ximeno. 1792. Investigaciones sobre la fundación y fábrica de la Torre de Hércules.AMC. Concello de A Coruña.")](http://ciav.s3.amazonaws.com/img/cornide-y-ximeno.jpg)
 
-A partir de 1790, la linterna se alimentará con carbón en un brasero de hierro y tendrá el apoyo de otro farol de aceite. A lo largo del siglo XIX las mejoras tecnológicas en el sistema de iluminación se suceden. Tras reformar el cuerpo superior, en 1806 se instala un mecanismo giratorio, incrementando la potencia lumínica con un aparato catadióptrico que alcanzaría las 20 millas. Será en 1883 cuando se instale una nueva lámpara mecánica que funcionaba con parafina, cuya luz era reflejada por 48 cristales. 
+A partir de 1790, la linterna se alimentará con carbón en un brasero de hierro y tendrá el apoyo de otro farol de aceite. A lo largo del siglo XIX las mejoras tecnológicas en el sistema de iluminación se suceden. Tras reformar el cuerpo superior, en 1806 se instala un mecanismo giratorio, incrementando la potencia lumínica con un aparato catadióptrico que alcanzaría las 20 millas. Será en 1883 cuando se instale una nueva lámpara mecánica que funcionaba con parafina, cuya luz era reflejada por 48 cristales.
+
+<div class="photoset-grid" data-layout="2">
+<a href="http://ciav.s3.amazonaws.com/img/cornide-rehab.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Representación de la Torre de Hércules después de su reedificación, libro de Cornide"><img src="http://ciav.s3.amazonaws.com/img/cornide-rehab.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/_DSC3567.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Torre de Hércules"><img src="http://ciav.s3.amazonaws.com/img/_DSC3567.jpg"></a>
+</div>
 
 En 1927 el faro empieza a emplear la energía eléctrica y el alcance del destello llega a las 32 millas. Cincuenta años más tarde, se instala un radio-faro de emisión continua y desde esa época emite cuatro destellos de luz blanca cada veinte segundos que se pueden ver a 23 millas. 
 
