@@ -309,7 +309,7 @@
   
   <url>
     <loc>http://volapuk.es/de/leuchtturmfunktion/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
@@ -317,7 +317,7 @@
   
   <url>
     <loc>http://volapuk.es/en/operation-of-the-lighthouse/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
@@ -325,7 +325,7 @@
   
   <url>
     <loc>http://volapuk.es/funcion-de-faro/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
@@ -333,7 +333,7 @@
   
   <url>
     <loc>http://volapuk.es/fr/la-fonction-du-phare/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
@@ -341,7 +341,7 @@
   
   <url>
     <loc>http://volapuk.es/gl/funcion-de-faro/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
@@ -349,7 +349,7 @@
   
   <url>
     <loc>http://volapuk.es/it/funzione-de-faro/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
@@ -357,7 +357,7 @@
   
   <url>
     <loc>http://volapuk.es/pt/funcao-de-farol/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
@@ -365,7 +365,7 @@
   
   <url>
     <loc>http://volapuk.es/de/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
@@ -373,7 +373,7 @@
   
   <url>
     <loc>http://volapuk.es/en/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
@@ -381,7 +381,7 @@
   
   <url>
     <loc>http://volapuk.es/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
@@ -389,7 +389,7 @@
   
   <url>
     <loc>http://volapuk.es/fr/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
@@ -397,7 +397,7 @@
   
   <url>
     <loc>http://volapuk.es/gl/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
@@ -405,7 +405,7 @@
   
   <url>
     <loc>http://volapuk.es/it/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
@@ -413,7 +413,63 @@
   
   <url>
     <loc>http://volapuk.es/pt/</loc>
-    <lastmod>2013-10-02</lastmod>
+    <lastmod>2013-10-03</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/de/rechtsberatung/</loc>
+    <lastmod>2013-10-03</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/en/legal-advice/</loc>
+    <lastmod>2013-10-03</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/aviso-legal/</loc>
+    <lastmod>2013-10-03</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/fr/.html</loc>
+    <lastmod>2013-10-03</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/gl/aviso-legal/</loc>
+    <lastmod>2013-10-03</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/it/.html</loc>
+    <lastmod>2013-10-03</lastmod>
+    
+      <priority>1.0</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://volapuk.es/pt/.html</loc>
+    <lastmod>2013-10-03</lastmod>
     
       <priority>1.0</priority>
     
