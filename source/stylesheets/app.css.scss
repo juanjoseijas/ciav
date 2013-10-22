@@ -92,7 +92,7 @@ blockquote {padding-left: $gutter-width;}
 @include at-breakpoint($medium-columns) {
 
 	#header-wrap {@include span-columns(6,6);}
-	#cover {@include span-columns(12,12);height: $base-line-height * 50;}
+	#cover {@include span-columns(6,6);height: $base-line-height * 50;}
 	article {
 			 
 
@@ -162,7 +162,15 @@ body {	background: $white;
 				height: auto; }
 		h1 {text-transform:lowercase;font-size:1.5em;padding-bottom:$base-line-height;}
 		p {padding-bottom: $base-line-height / 2;}
+		strong {font-weight: bold;}
 		blockquote {font-family: "kepler-std"; border-left:$border; margin-top: $base-line-height; margin-bottom: $base-line-height; }
+
+		 #map-canvas { width:100%; height: $base-line-height * 20;
+
+		 		img {max-width: none;}
+		 }
+
+		 #map-directions {display: none;}
 
 		#header-wrap {
 
@@ -214,6 +222,10 @@ body {	background: $white;
 
 				img {	padding-top: $base-line-height; }
 				a {font-weight: bold;}
+				ul { list-style: disc inside none; 
+
+									li {margin-bottom: $base-line-height;}
+								}
 				.photoset-grid {margin-bottom: $base-line-height;}
 			
 
