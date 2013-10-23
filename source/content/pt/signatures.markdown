@@ -1,16 +1,16 @@
-La evolución histórica de la Torre de Hércules se puede seguir mediante las inscripciones que hay en el propio edificio o a través de las referencias a las que aludieron 
-historiadores clásicos como Ptolomeo, Dion Cassio o Paulo Orosio, que escribió «en el segundo ángulo de la península, en la ciudad de Brigantia, se levanta una torre altísima, digna de ser mencionada». Cabe destacar que se conserve la firma en latín del arquitecto del faro, datada en el siglo I, resguardada por un edículo vecino a la Torre, en la que se lee:
+A evolução histórica da Torre de Hércules pode ser seguida através das inscrições existentes no próprio edifício ou através das referencias feitas por historiadores clássicos como Ptolomeu, Dion Cássio ou Paulo Orósio, que escreveu *“no segundo ângulo da Península, na cidade de Brigantia, ergue-se uma torre altíssima, digna de menção”*.
 
-> «Consagrado a Marte Augusto. Caio Sevio Lupo, arquitecto de Aeminium (Coimbra) Lusitano en cumplimiento de una promesa» [1].
+Convém destacar que se conserva a assinatura em latim do arquiteto do farol, datada no século I, resguardada por uma edícula adjacente à Torre, na qual se pode ler:
+> “Consagrado a Marte Augusto. Caio Sévio Lupo, arquiteto de Aeminium (Coimbra) Lusitano em cumprimento de uma promessa” 
 
-Ya en Época Moderna, el duque de Uceda, en el siglo XVII, dejó su impronta en un sillar en el que se puede leer:
+Já na Época Moderna, o duque de Uceda, no século XVII, deixou a sua impressão num silhar no qual se pode ler:
 
-> «Lupo la construyó emulando las maravillas de Menfis, la allanó por medio de una escalera y alumbró las naves desde su cumbre»,
+> “Lupo construiu emulando as maravilhas de Menfis, equipou-a com uma escada e iluminou as naves desde a sua cúpula”, 
 
-estableciendo una comparativa entre el faro coruñés y el de Alejandría [2]. 
+estabelecendo uma comparação entre o farol corunhês e o de Alexandria.
 
-Con la reforma neoclásica, en el siglo XVIII, José Cornide redactó dos placas conmemorativas que se colocaron sobre las puertas de entrada, en las que se conmemoran las obras durante los reinados de Carlos III y Carlos IV. Asimismo, en la misma centuria, Eustaquio Giannini dejó constancia de su trabajo:
+Com a reforma neoclássica, no século XVIII, José Cornide redigiu duas placas comemorativas que foram afixadas sobre as portas de entrada, as quais celebram as obras realizadas durante os reinados de Carlos III e Carlos IV. Do mesmo modo, no mesmo século, Eustaquio Giannini deixou testemunho do seu trabalho:
 
-> «DIRIXIO ESTA OBRA EL THENIENTE DE NAVIO INGº ORDINARIO DE MARINA D. EUSTAQUIO GIANNINI» [3].
+> “DIRIXIO ESTA OBRA EL THENIENTE DE NAVIO INGº ORDINARIO DE MARINA D. EUSTAQUIO GIANNINI”
 
 
