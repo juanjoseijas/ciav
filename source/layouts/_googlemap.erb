@@ -13,10 +13,25 @@
         <script type="text/javascript"
             src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBLTmwMpvY8mS3OEHcavmLY-iSXXGF5LnA&sensor=false&language=en">
         </script>
+        <% elsif I18n.locale.to_s == "fr" %>
+
+        <script type="text/javascript"
+            src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBLTmwMpvY8mS3OEHcavmLY-iSXXGF5LnA&sensor=false&language=fr">
+        </script>
+        <% elsif I18n.locale.to_s == "it" %>
+
+        <script type="text/javascript"
+            src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBLTmwMpvY8mS3OEHcavmLY-iSXXGF5LnA&sensor=false&language=it">
+        </script>
+        <% elsif I18n.locale.to_s == "pt" %>
+
+        <script type="text/javascript"
+            src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBLTmwMpvY8mS3OEHcavmLY-iSXXGF5LnA&sensor=false&language=pt">
+        </script>
         <% elsif I18n.locale.to_s == "de" %>
 
         <script type="text/javascript"
-            src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBLTmwMpvY8mS3OEHcavmLY-iSXXGF5LnA&sensor=false&language=en">
+            src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBLTmwMpvY8mS3OEHcavmLY-iSXXGF5LnA&sensor=false&language=de">
         </script>
 
 <% end %>
