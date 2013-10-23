@@ -505,4 +505,35 @@ body {	background: $white;
 }
 
 
+.accordion {
+     
+   dt, dd {
+      padding-top: $base-line-height;
+      padding-bottom: $base-line-height;
+      border-top: 1px solid black;
+      border-bottom: 0; 
+      &:last-of-type {
+        border-bottom: 1px solid black; 
+      }
+      a {
+        display: block;
+        color: $yellow;
+        font-weight: bold;
+      }
+   }
+  dd {
+     border-top: 0; 
+     
+     &:last-of-type {
+       border-top: 1px solid $white;
+       position: relative;
+       top: -1px;
+     }
+  }
+}
+
+
+
+
+
 @import "fresco";

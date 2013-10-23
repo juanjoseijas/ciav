@@ -48,9 +48,10 @@ $( "#languages .showmenu" ).click(function() {
 
 
   $("#cover").backstretch([
-                           "http://ciav.s3.amazonaws.com/img/_DSC3214.jpg",
-                           "http://ciav.s3.amazonaws.com/img/_DSC3250.jpg",
-                           "http://ciav.s3.amazonaws.com/img/function01.jpg"
+                           "http://ciav.s3.amazonaws.com/img/cover1.png",
+                           "http://ciav.s3.amazonaws.com/img/cover2.png",
+                           "http://ciav.s3.amazonaws.com/img/cover3.png",
+                           "http://ciav.s3.amazonaws.com/img/cover4.png"
 
                                ], {duration: 6000, fade: 750} );
 
@@ -88,16 +89,25 @@ $( "#languages .showmenu" ).click(function() {
 
 
 
+// Timeline
+
+
+(function($) {
+    
+  var allPanels = $('.accordion > dd').hide();
+    
+  $('.accordion > dt > a').click(function() {
+    allPanels.slideUp();
+    $(this).parent().next().slideDown();
+    return false;
+  });
+
+})(jQuery);
+
+
 
 // Google Maps
 
-
-
-
-
-
-
-// 
 
 var infowindow = null;
     $(document).ready(function () { initialize();  });
