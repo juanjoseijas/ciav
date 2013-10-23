@@ -29,7 +29,7 @@ en:
     legal: Legal Advice
 
   paths:
-    index: "index"
+    index: ""
     about: "ciav"
     function: "operation-of-the-lighthouse"
     building: "construction-methods"
