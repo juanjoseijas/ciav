@@ -29,7 +29,7 @@ fr:
     legal: 
 
   paths:
-    index: ""
+    index: "index"
     about: "ciav"
     function: "la-fonction-du-phare"
     building: "methodes-de-construction"

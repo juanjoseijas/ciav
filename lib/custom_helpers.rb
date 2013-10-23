@@ -53,7 +53,7 @@ module CustomHelpers
   end
 
   def home_path
-    page_path 'index'
+    [locale_base_path, I18n.t("paths.index")+".html"].join('/')
   end
 
   def legal_path

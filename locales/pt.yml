@@ -29,7 +29,7 @@ pt:
     legal: 
 
   paths:
-    index: ""
+    index: "index"
     about: "ciav"
     function: "funcao-de-farol"
     building: "metodos-de-construcao"

@@ -29,7 +29,7 @@ it:
     legal:
 
   paths:
-    index: ""
+    index: "index"
     about: "ciav"
     function: "funzione-de-faro"
     building: "metodi-di-costruzione"
