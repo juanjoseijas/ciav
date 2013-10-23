@@ -135,6 +135,8 @@ blockquote {padding-left: $gutter-width;}
 
 			 aside {@include span-columns(6,10);}
 			 .bodytext {@include span-columns(4 omega,10); padding-right: 2em; padding-bottom: $base-line-height * 6; border-right:$border;}
+			 .imagecontent {@include span-columns(1,4);}
+			 .textcontent {@include span-columns(3 omega,4);}
 			 blockquote {@include prefix(1); }
 			}
 
@@ -158,6 +160,7 @@ body {	background: $white;
 		.active {color:$black;font-weight: bold;}
 		a.active:hover {color:$black;}
 		img {width: 100%;}
+
 		video {	max-width: 100%;
 				height: auto; }
 		h1 {text-transform:lowercase;font-size:1.5em;padding-bottom:$base-line-height;}
@@ -165,7 +168,7 @@ body {	background: $white;
 		strong {font-weight: bold;}
 		blockquote {font-family: "kepler-std"; border-left:$border; margin-top: $base-line-height; margin-bottom: $base-line-height; }
 
-		 #map-canvas { width:100%; height: $base-line-height * 20;
+		 #map-canvas, #map-imperium { width:100%; height: $base-line-height * 20;
 
 		 		img {max-width: none;}
 		 }
@@ -220,7 +223,9 @@ body {	background: $white;
 
 			.bodytext {
 
-				img {	padding-top: $base-line-height; }
+				div.photoset-grid {img {	padding-top: $base-line-height; }}
+
+				
 				a {font-weight: bold;}
 				ul { list-style: disc inside none; 
 
@@ -523,6 +528,7 @@ body {	background: $white;
    }
   dd {
      border-top: 0; 
+     img {width:auto; float:left; clear:both; padding-right: $gutter-width;}
      
      &:last-of-type {
        border-top: 1px solid $white;

@@ -3,18 +3,22 @@ Con el fin de establecer contactos comerciales, en el año 61 a. de C., Julio C�
 Durante la paz de Augusto se fueron incrementando las relaciones comerciales lo que supuso el desarrollo de la estructura viaria y el aumento del tráfico marítimo que favoreció el proceso de romanización. En este contexto, el noroeste peninsular se convirtió en un territorio fundamental y el puerto de Brigantium, en uno de los principales puntos de arribada de la vía XX, donde se refugiaron las armadas romanas en su camino a la conquista de Britania. 
 
 Este interés militar sirvió para que el Imperio Romano justificara la construcción del faro. Hasta el momento, la navegación desde Gibraltar hasta Fisterra se producía paralela a la costa, a unas pocas millas del litoral, siguiendo per loca marítima. Sin embargo, en Brigantium debían orientar las proas de sus barcos hacia el canal de la Mancha y los territorios del norte, adentrándose en un mar abierto, muy batido y peligroso. 
+    
 
 Desde su construcción sigue cumpliendo la misión de orientar y dirigir a los navegantes en la inmensidad del océano. 
 
 <dl class="accordion">
   <dt><a href="">S. I a.C</a></dt>
     <dd>
-    <ul>
-      <li>En el año 61 a. C. Julio César visita A Coruña con el fin de establecer contactos comerciales.</li>
-      <li>Durante las Guerras Cántabras (29-19 a. C.) Brigantium se convierte en un puerto importante y después, en uno de los principales puntos de arribada de la Vía XX.</li>
-      <li>Caio Servio Lupo, arquitecto de origen luso, dirige la edificación de un faro que preste servicio al tráfico marítimo del golfo Ártabro.</li>
+    <div class="imagecontent"><img src="http://ciav.s3.amazonaws.com/img/gayo-julio-cesar.jpg" alt=""></div>
+    <div class="textcontent">
+    <p>
+      En el año 61 a. C. Julio César visita A Coruña con el fin de establecer contactos comerciales. <br><br>
+      Durante las Guerras Cántabras (29-19 a. C.) Brigantium se convierte en un puerto importante y después, en uno de los principales puntos de arribada de la Vía XX. <br><br>
+      Caio Servio Lupo, arquitecto de origen luso, dirige la edificación de un faro que preste servicio al tráfico marítimo del golfo Ártabro.
 
-    </ul>
+    </p>
+    </div>
     
     
     </dd>
@@ -22,7 +26,11 @@ Desde su construcción sigue cumpliendo la misión de orientar y dirigir a los n
 
 
   <dt><a href="">s. IV</a></dt>
-    <dd>Los historiadores romanos Ptolomeo, Dion Cassio y Paulo Orosio hacen referencia al “Farum Brigantium”</dd>
+    <dd>
+    <div class="imagecontent"><img src="http://ciav.s3.amazonaws.com/img/06.jpg" alt=""></div>
+    <div class="textcontent"><p>Los historiadores romanos Ptolomeo, Dion Cassio y Paulo Orosio hacen referencia al “Farum Brigantium”</p></div>
+
+    </dd>
 
   <dt><a href="">S. VI - VII</a></dt>
     <dd>El faro se transformará en una atalaya que servirá para controlar el litoral.</dd>
