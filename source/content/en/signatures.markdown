@@ -1,16 +1,16 @@
-La evolución histórica de la Torre de Hércules se puede seguir mediante las inscripciones que hay en el propio edificio o a través de las referencias a las que aludieron 
-historiadores clásicos como Ptolomeo, Dion Cassio o Paulo Orosio, que escribió «en el segundo ángulo de la península, en la ciudad de Brigantia, se levanta una torre altísima, digna de ser mencionada». Cabe destacar que se conserve la firma en latín del arquitecto del faro, datada en el siglo I, resguardada por un edículo vecino a la Torre, en la que se lee:
+The historical evolution of the Tower of Hercules can be followed by means of the inscriptions found throughout the structure itself, as well as through the references made to the tower by classical historians including Ptolemy, Cassius Dio, and Paulus Orosius, who wrote *“on the second curve of the peninsula, in the city of Brigantia, a high tower rises, worthy of being mentioned”*. It is especially notable that the signature of the lighthouse’s original architect remains visible in a building adjacent to the Tower, dated to the 1st century A.D. It translates as:
 
-> «Consagrado a Marte Augusto. Caio Sevio Lupo, arquitecto de Aeminium (Coimbra) Lusitano en cumplimiento de una promesa» [1].
+> "Dedicated to Mars. Caius Sevius Lupus, architect of Aeminium, Lusitania [Coimbra, Portugal], to fulfill a vow".
 
-Ya en Época Moderna, el duque de Uceda, en el siglo XVII, dejó su impronta en un sillar en el que se puede leer:
+Much later, in the 17th century the Duke of Uceda left his inscription on a block of stone, which reads:
 
-> «Lupo la construyó emulando las maravillas de Menfis, la allanó por medio de una escalera y alumbró las naves desde su cumbre»,
+> «Lupus built it to emulate the marvels of Memphis, scaled it using a stairway, and lit up the ships from its peak”,
 
-estableciendo una comparativa entre el faro coruñés y el de Alejandría [2]. 
+drawing a comparison between this lighthouse in A Coruña and the one in Alexandria, Egypt »,
 
-Con la reforma neoclásica, en el siglo XVIII, José Cornide redactó dos placas conmemorativas que se colocaron sobre las puertas de entrada, en las que se conmemoran las obras durante los reinados de Carlos III y Carlos IV. Asimismo, en la misma centuria, Eustaquio Giannini dejó constancia de su trabajo:
 
-> «DIRIXIO ESTA OBRA EL THENIENTE DE NAVIO INGº ORDINARIO DE MARINA D. EUSTAQUIO GIANNINI» [3].
+During the neoclassical remodeling in the 18th century, José Cornide produced two commemorative plaques located above the entrance doors, which commemorate the work performed during the reigns of Charles III and Charles IV of Spain. During this same century, Eustaquio Giannini left this evidence of his direction of the renovation work:
+
+> «DIRIXIO ESTA OBRA EL THENIENTE DE NAVIO INGº ORDINARIO DE MARINA D. EUSTAQUIO GIANNINI».
 
 
