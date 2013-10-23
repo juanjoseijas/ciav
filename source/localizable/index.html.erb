@@ -4,15 +4,33 @@ layout: layout
 priority: 1.0
 ---
 
-<% content_for :tagline do %>
-	<h2><%= I18n.t('site.description') %></h2>
-<% end %>
 
-	<div id="cover" class="index_slide">
-	</div>
+
+	
 
 
 
-
-
-
+<article itemscope itemtype="http://schema.org/Article">
+  <aside>
+    
+      <ul class="bxslider">
+          <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/_DSC3214.jpg', :class => 'tooltip', :title => 'Interior CIAV', :alt => 'Interior CIAV' %></li>
+          <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/_DSC3250.jpg', :class => 'tooltip', :title => 'Interior CIAV', :alt => 'Interior CIAV' %></li>
+          <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/_DSC3235_2.jpg', :class => 'tooltip', :title => 'Interior CIAV', :alt => 'Interior CIAV' %></li>
+          <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/_DSC3603.jpg', :class => 'tooltip', :title => 'Escultura de Hércules, realizada por Francisco Leiro', :alt => 'Escultura de Hércules, realizada por Francisco Leiro' %></li>
+      </ul>
+  </aside>
+  <div class="bodytext">
+    <header>
+      <hgroup>
+        <h1 itemprop="name"><%= I18n.t('layout.about') %></h1>
+        <h2><%= I18n.t('site.description') %></h2>
+      </hgroup>
+    </header>
+    <section>
+      <%= partial "content/#{I18n.locale}/about" %>
+    </section>
+    <footer>
+    </footer>
+  </div>
+</article>

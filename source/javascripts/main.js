@@ -48,10 +48,10 @@ $( "#languages .showmenu" ).click(function() {
 
 
   $("#cover").backstretch([
-                           "http://ciav.s3.amazonaws.com/img/cover1.jpg",
-                           "http://ciav.s3.amazonaws.com/img/cover2.jpg",
-                           "http://ciav.s3.amazonaws.com/img/cover3.jpg",
-                           "http://ciav.s3.amazonaws.com/img/cover4.jpg"
+                           "http://ciav.s3.amazonaws.com/img/cover1.png",
+                           "http://ciav.s3.amazonaws.com/img/cover2.png",
+                           "http://ciav.s3.amazonaws.com/img/cover3.png",
+                           "http://ciav.s3.amazonaws.com/img/cover4.png"
 
                                ], {duration: 6000, fade: 750} );
 

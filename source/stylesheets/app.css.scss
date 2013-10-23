@@ -164,6 +164,7 @@ body {	background: $white;
 		video {	max-width: 100%;
 				height: auto; }
 		h1 {text-transform:lowercase;font-size:1.5em;padding-bottom:$base-line-height;}
+		h2 {font-weight: bold;padding-bottom:$base-line-height;}
 		p {padding-bottom: $base-line-height / 2;}
 		strong {font-weight: bold;}
 		blockquote {font-family: "kepler-std"; border-left:$border; margin-top: $base-line-height; margin-bottom: $base-line-height; }
