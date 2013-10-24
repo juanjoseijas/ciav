@@ -176,6 +176,8 @@ body {	background: $white;
 
 		 #map-directions {display: none;}
 
+		 #roman-empire-map {width:100%; height: $base-line-height * 20;}
+
 		#header-wrap {
 
 			
@@ -202,7 +204,7 @@ body {	background: $white;
   						@include border-radius($base-line-height * 2.5);
   					}
 
-  					h2 {padding-bottom: $base-line-height;}
+  					h2 {padding-bottom: $base-line-height; text-transform: uppercase; font-weight: normal;}
 
 
 
