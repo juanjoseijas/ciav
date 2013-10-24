@@ -5,7 +5,7 @@ O atual Centro de Interpretação e Atendimento ao Visitante (CIAV) da Torre de 
 <a href="http://ciav.s3.amazonaws.com/img/panorama.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/panorama.jpg"></a>
 </div>
 
-À entrada, uma escultura de Hércules, realizada por Francisco Leiro, dá as boas vindas ao visitante. À sua direita situa-se um espaço de receção atendido por pessoal especializado, onde é também possível obter-se diferentes folhetos com informações sobre a Torre, o CIAV e os recursos turísticos da cidade.
+À entrada, uma escultura de Hércules, realizada por [Francisco Leiro](http://pt.wikipedia.org/wiki/Francisco_Leiro), dá as boas vindas ao visitante. À sua direita situa-se um espaço de receção atendido por pessoal especializado, onde é também possível obter-se diferentes folhetos com informações sobre a Torre, o CIAV e os recursos turísticos da cidade.
 
 No lado esquerdo, podem ver-se diferentes módulos, mapas, maquetes e ecrãs interativos que oferecem ao visitante informações acerca da evolução histórica do farol e do ambiente circundante de um ponto de vista patrimonial, cultural e social.
 
