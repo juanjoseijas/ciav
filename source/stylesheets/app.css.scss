@@ -169,6 +169,7 @@ body {	background: $white;
 		p {padding-bottom: $base-line-height / 2;}
 		p.legend {padding-top: $base-line-height; font-size: 0.8em;}
 		strong {font-weight: bold;}
+		ol {list-style-type: decimal-leading-zero; li{font-size:0.8em; padding-right:1em;}}
 		blockquote {font-family: "kepler-std"; border-left:$border; margin-top: $base-line-height; margin-bottom: $base-line-height; }
 
 		 #map-canvas, #map-imperium { width:100%; height: $base-line-height * 20;
