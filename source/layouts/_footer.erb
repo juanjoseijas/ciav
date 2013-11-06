@@ -1,7 +1,22 @@
 <div id="footer">
+
 	<nav>
+        <% link_to 'http://www.coruna.es/' do %>
+          <%= image_tag 'http://ciav.s3.amazonaws.com/logos/logo_ayuntamiento_coruna.png', :class => 'tooltip', :title => 'Ayuntamiento de A Coruña', :alt => 'Ayuntamiento de A Coruña' %>
+        <% end %>
+        <% link_to 'http://europa.eu/legislation_summaries/employment_and_social_policy/job_creation_measures/l60015_es.htm' do %>
+          <%= image_tag 'http://ciav.s3.amazonaws.com/logos/logo_fondo_europeo.png', :class => 'tooltip', :title => 'FEDER', :alt => 'FEDER' %>
+        <% end %>
+        <% link_to 'http://www.mityc.es/' do %>
+          <%= image_tag 'http://ciav.s3.amazonaws.com/logos/logo-ministerio.png', :class => 'tooltip', :title => 'Gobierno de España. Ministerio de Industria, Energía y Turismo', :alt => 'Gobierno de España. Ministerio de Industria, Energía y Turismo' %>
+        <% end %>
+        <% link_to 'http://www.xunta.es/' do %>
+          <%= image_tag 'http://ciav.s3.amazonaws.com/logos/logo-xunta.png', :class => 'tooltip', :title => 'Xunta de Galicia', :alt => 'Xunta de Galicia' %>
+        <% end %>
 		<ul>
-			<%= link_to I18n.t('layout.legal'), I18n.t('paths.legal') %>
+     
+      <li><%= link_to I18n.t('layout.legal'), I18n.t('paths.legal') %></li>
+			
 		</ul>
 
 	</nav>

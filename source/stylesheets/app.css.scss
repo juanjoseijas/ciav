@@ -155,7 +155,8 @@ body {	background: $white;
 
 		padding-bottom: $base-line-height * 6;
 		a {text-decoration:none;
-		   color:$link;}
+		   color:$link;
+		 	 }
 		a:hover {color:$gray;}
 		.active {color:$black;font-weight: bold;}
 		a.active:hover {color:$black;}
@@ -166,6 +167,7 @@ body {	background: $white;
 		h1 {text-transform:lowercase;font-size:1.5em;padding-bottom:$base-line-height;}
 		h2 {font-weight: bold;padding-bottom:$base-line-height;}
 		p {padding-bottom: $base-line-height / 2;}
+		p.legend {padding-top: $base-line-height; font-size: 0.8em;}
 		strong {font-weight: bold;}
 		blockquote {font-family: "kepler-std"; border-left:$border; margin-top: $base-line-height; margin-bottom: $base-line-height; }
 
@@ -178,8 +180,7 @@ body {	background: $white;
 
 		 #roman-empire-map {width:100%; height: $base-line-height * 20;}
 
-		#header-wrap {
-
+		#header-wrap {  
 			
 			
 			
@@ -187,7 +188,7 @@ body {	background: $white;
 
 
 
-			#header { padding-top: $base-line-height * 2;
+			#header { padding-top: $base-line-height * 2; 
 
 				#banner {
 
@@ -229,7 +230,8 @@ body {	background: $white;
 				div.photoset-grid {img {	padding-top: $base-line-height; }}
 
 				
-				a {font-weight: bold;}
+				a {font-weight: bold;border-bottom: $border;}
+				a:hover {color:$yellow;}
 				ul { list-style: disc inside none; 
 
 									li {margin-bottom: $base-line-height;}
@@ -240,7 +242,7 @@ body {	background: $white;
 			}
 		}
 
-		#footer {padding-top:0;margin-top:0;}
+		#footer {padding-top:0;margin-top:$base-line-height * 3; font-size: 0.8em; img {width:auto; padding-right: 10px;}}
 
 	}
 

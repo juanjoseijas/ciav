@@ -4,6 +4,9 @@ layout: layout
 priority: 1.0
 ---
 
+<% content_for :googlemap do %>
+	<%= javascript_include_tag "environment-map" %>
+<% end %>
 
 <article itemscope itemtype="http://schema.org/Article">
 	<aside>

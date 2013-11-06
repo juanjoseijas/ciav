@@ -66,5 +66,12 @@ es:
     subscription: "Quiero subscribirme"
     newsletter_legend: "Subscríbete a nuestra newsletter"
     newsletter_description: "Nuestro newsletter es una manera de mantenermos en contacto contigo: no facilitamos tus datos a nadie, y sólo te mandaremos un email mensual con novedades y ofertas."
+  
+  caption:
+    pic1: "Torre de Hércules"
+    pic2: "Interior CIAV"
+    pic3: "Interior CIAV"
+    pic4: "Interior CIAV"
+    pic5: "Escultura de Hércules, realizada por Francisco Leiro"
 
 

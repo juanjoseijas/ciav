@@ -4,12 +4,20 @@ layout: layout
 priority: 1.0
 ---
 
+<% content_for :googlemap do %>
+	<%= javascript_include_tag "rome-map" %>
+<% end %>
 
 <article itemscope itemtype="http://schema.org/Article">
 	<aside>
-		
-		<iframe id="roman-empire-map" src="http://pelagios.dme.ait.ac.at/maps/greco-roman/" frameborder="0"></iframe>
+	
+		<div id="map-canvas"></div>
 
+		<p class="legend">Leyenda: <strong>A</strong> (ciudades) | <strong>B</strong> (puertos) | <strong>C</strong> (faros)</p>
+		
+	
+	    
+   
 	</aside>
 	<div class="bodytext">
 		<header>
