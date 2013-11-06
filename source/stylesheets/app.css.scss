@@ -229,9 +229,9 @@ body {	background: $white;
 
 				div.photoset-grid {img {	padding-top: $base-line-height; }}
 
+				p {a {font-weight: bold;border-bottom: $border;}
+				a:hover {color:$yellow;}}
 				
-				a {font-weight: bold;border-bottom: $border;}
-				a:hover {color:$yellow;}
 				ul { list-style: disc inside none; 
 
 									li {margin-bottom: $base-line-height;}
@@ -516,6 +516,8 @@ body {	background: $white;
 
 
 .accordion {
+
+
      
    dt, dd {
       padding-top: $base-line-height;
@@ -529,6 +531,7 @@ body {	background: $white;
         display: block;
         color: $yellow;
         font-weight: bold;
+
       }
    }
   dd {
@@ -542,6 +545,14 @@ body {	background: $white;
      }
   }
 }
+
+
+
+
+
+#facebook, #twitter {float:left;padding-right: $gutter-width; margin-top: $base-line-height;}
+
+
 
 
 

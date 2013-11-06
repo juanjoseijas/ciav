@@ -105,4 +105,32 @@ $( "#languages .showmenu" ).click(function() {
 })(jQuery);
 
 
+// Share
 
+$('#twitter').sharrre({
+  share: {
+    twitter: true
+  },
+  enableHover: false,
+  enableCounter: false,
+  enableTracking: true,
+  buttons: { twitter: {via: 'CorunaTurismo'}},
+  click: function(api, options){
+    api.simulateClick();
+    api.openPopup('twitter');
+  }
+});
+
+
+$('#facebook').sharrre({
+  share: {
+    facebook: true
+  },
+  enableHover: false,
+  enableCounter: false,
+  enableTracking: true,
+  click: function(api, options){
+    api.simulateClick();
+    api.openPopup('facebook');
+  }
+});
