@@ -8,6 +8,7 @@ activate :i18n,  :mount_at_root => :es
 # Enable Pretty URLs (Directory Indexes)
 activate :directory_indexes
 page "/404.html", :directory_index => false
+set :relative_links, true
 
 ###
 # Markdown settings
