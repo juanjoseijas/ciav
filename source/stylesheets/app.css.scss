@@ -113,7 +113,7 @@ blockquote {padding-left: $gutter-width;}
 
 
 @include at-breakpoint($large-columns) {
-	#header-wrap {@include span-columns(12,12); position:fixed; top:0; z-index: 1; background: $white;}
+	#header-wrap {@include span-columns(12,12); }
 	#header {@include squish(1,0);}
 	#banner {@include span-columns(6,11);}
 	#menu {@include span-columns(4,11);padding-right: 2em;  margin-bottom: $base-line-height * 3; border-right:$border;}
@@ -121,7 +121,7 @@ blockquote {padding-left: $gutter-width;}
 	#navigation-menu {display: block;}
 	#navigation-languages {display:block;}
 	#cover {@include span-columns(12,12);height: $base-line-height * 50;}
-	#content {@include span-columns(12,12);margin-top: $base-line-height * 15;}
+	#content {@include span-columns(12,12);}
 	
 	#slideshow {@include span-columns(6,10);}
 	#footer {@include span-columns(12,12);
