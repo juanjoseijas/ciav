@@ -13,9 +13,7 @@ priority: 1.0
 	
 		<div id="map-canvas"></div>
 
-		<p class="legend">Leyenda: <strong>A</strong> (ciudades) | <strong>B</strong> (puertos) | <strong>C</strong> (faros)</p>
-		
-	
+		<p class="legend"><a href="#" onclick="displayMarkers(1);"><%= I18n.t('text.cities') %></a> | <a href="#" onclick="displayMarkers(2);"><%= I18n.t('text.ports') %></a></a> | <a href="#" onclick="displayMarkers(3);"><%= I18n.t('text.lighthouses') %></a></a></p>
 	    
    
 	</aside>
@@ -28,6 +26,10 @@ priority: 1.0
 		<section>
 			<%= partial "content/#{I18n.locale}/rome" %>
 		</section>
+		<section>
+      <div id="facebook" data-url="<%= data.settings.site.domain %><%= request.path %>" data-text="" data-title="Like"></div>
+      <div id="twitter" data-url="<%= data.settings.site.domain %><%= request.path %>" data-text="" data-title="Tweet"></div>
+    </section>
 		<footer>
 		</footer>
 	</div>

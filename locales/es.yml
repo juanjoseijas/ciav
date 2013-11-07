@@ -62,17 +62,19 @@ es:
     name: "Nombre"
     email: "Email"
     follow-us: "Síguenos en"
+    cities: "ciudades"
+    ports: "puertos"
+    lighthouses: "faros"
     tag: "Comparte tus fotos con nosotros en instagram o twitter con el hashtag #ciav"
     subscription: "Quiero subscribirme"
     newsletter_legend: "Subscríbete a nuestra newsletter"
     newsletter_description: "Nuestro newsletter es una manera de mantenermos en contacto contigo: no facilitamos tus datos a nadie, y sólo te mandaremos un email mensual con novedades y ofertas."
   
   caption:
-    pic1: "Torre de Hércules"
-    pic2: "Interior CIAV"
-    pic3: "Interior CIAV"
-    pic4: "Interior CIAV"
-    pic5: "Escultura de Hércules, realizada por Francisco Leiro"
+    pic1: "Mapa de A Coruña. Pablo Teixeira. 1634. Atlas del Rey Planeta. La descripción de España de las costas y puertos de sus reinos."
+    pic2: "Bahía de La Coruña. José Cornide y J. Ximeno. 1792. Investigaciones sobre la fundación y fábrica de la Torre de Hércules. AMC. Concello de A Coruña."
+    pic3: "Representación de la Torre de Hércules después de su reedificación. José Cornide. 1792. Investigaciones sobre la fundación y fábrica de la Torre de Hércules. Propiedad de Carlos Martínez Barbeito."
+
 
 
 

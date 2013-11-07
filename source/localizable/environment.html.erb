@@ -12,6 +12,7 @@ priority: 1.0
 	<aside>
 		<ul class="bxslider">
 				  <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/_DSC3556.jpg', :class => 'tooltip', :title => '', :alt => 'prueba' %></li>
+				  <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/_DSC3935.jpg', :class => 'tooltip', :title => '«Consagrado a Marte Augusto. Caio Sevio Lupo, arquitecto de Aeminium (Coimbra) Lusitano en cumplimiento de una promesa.»', :alt => '' %></li>
 				  <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/aerial-view.jpg', :class => 'tooltip', :title => '', :alt => '' %></li>
 				  <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/postales-2655M.jpg', :class => 'tooltip', :title => '', :alt => '' %></li>
 			</ul>
@@ -34,6 +35,10 @@ priority: 1.0
 
 			</ol>
 		</section>
+		<section>
+      <div id="facebook" data-url="<%= data.settings.site.domain %><%= request.path %>" data-text="" data-title="Like"></div>
+      <div id="twitter" data-url="<%= data.settings.site.domain %><%= request.path %>" data-text="" data-title="Tweet"></div>
+    </section>
 		<footer>
 		</footer>
 	</div>

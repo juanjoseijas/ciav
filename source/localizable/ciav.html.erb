@@ -25,6 +25,10 @@ priority: 1.0
 			<%= partial "content/#{I18n.locale}/about" %>
 			
 		</section>
+		<section>
+      <div id="facebook" data-url="<%= data.settings.site.domain %><%= request.path %>" data-text="" data-title="Like"></div>
+      <div id="twitter" data-url="<%= data.settings.site.domain %><%= request.path %>" data-text="" data-title="Tweet"></div>
+    </section>
 		<footer>
 		</footer>
 	</div>
