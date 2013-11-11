@@ -99,48 +99,48 @@ var infowindow = null;
 
     var sites = [
   
-  ['Menhires por la paz', 43.385480, -8.394005, 0, 'Parque escultórico: Menhires por la paz. Manolo Paz'],
-  ['Combate entre Hércules y Gerión', 43.383499, -8.404391, 0, 'Parque escultórico: Combate entre Hércules y Gerión. Tim Behrens y Xosé Espona'],
-  ['Menhir Pentacefálico', 43.384388, -8.405603, 0, 'Parque escultórico: Menhir Pentacefálico. Ramón Miranda'],
-  ['Ártabros', 43.383749, -8.404756, 0, 'Parque escultórico: Ártabros. Arturo Andrade'],
-  ['Rosa de los Vientos', 43.386703, -8.407727, 0, 'Parque escultórico: Rosa de los Vientos. Javier Correa'],
-  ['Espinoso', 43.387164, -8.408210, 0, 'Parque escultórico: Espinoso, E. Saavedra Chicherri.'],
-  ['Los Guardianes', 43.385090, -8.407137, 0, 'Parque escultórico: Los Guardinaes, Soledad Penalta.'],
-  ['Ara Solis', 43.385324, -8.406848, 0, 'Parque escultórico: Ara Solis, Silverio Rivas.'],
-  ['Hidra de Lerna', 43.385293, -8.405807, 0, 'Parque escultórico: Hidra de Lerna, Fidel Goás Mendes.'],
-  ['Breogán', 43.384887, -8.402599, 0, '<img src="http://ciav.s3.amazonaws.com/img/breogan-thumb.jpg"><br>Parque escultórico: Breogán, José Cid.'],
-  ['Caronte', 43.384100, -8.402224, 0, 'Parque escultórico: Caronte, Ramón Conde.'],
-  ['Caracola', 43.388801, -8.401022, 0, 'Parque escultórico: Caracola, Moncho Amigo.'],
-  ['La Copa del Sol', 43.387499, -8.398029, 0, 'Parque escultórico: La Copa del Sol, Pepe Galán.'],
-  ['Hércules en la Nave de los Argonautas', 43.386376, -8.396838, 0, 'Hércules en la Nave de los Argonautas, Gonzalo Viana'],
-  ['Guitarra', 43.384326, -8.403844, 0, 'Parque escultórico: Guitarra, Pablo Serrano.'],
-  ['Monumento a los Fusilados', 43.384879, -8.393351, 0, 'Parque escultórico: Espinoso.'],
-  ['Puertas de Hércules', 43.386228, -8.406408, 0, 'Parque escultórico: Puertas de Hércules, Francisco Leiro'],
-  ['Estatua de Carlos III', 43.385745, -8.406140, 0, 'Parque escultórico: Estatua de Carlos III.'],
-  ['Estatua de Hércules', 43.386096, -8.406547, 0, 'Parque escultórico: Estatua de Hércules, Francisco Leiro.']
+  ['Menhires por la paz', 43.385480, -8.394005, 0, '<img src="http://ciav.s3.amazonaws.com/img/1-manolopaz.jpg" alt="" class="pin" /><br><strong>Menhires por la paz.</strong><br>Manolo Paz'],
+  ['Combate entre Hércules y Gerión', 43.383499, -8.404391, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/2-timbehrensxoseespona.jpg" alt="" /><br><strong>Combate entre Hércules y Gerión.</strong><br>Tim Behrens y Xosé Espona'],
+  ['Menhir Pentacefálico', 43.384388, -8.405603, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/3-ramonmiranda.jpg" alt="" /><br><strong>Menhir Pentacefálico.</strong><br>Ramón Miranda'],
+  ['Ártabros', 43.383749, -8.404756, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/4-arturoandrade.jpg" alt="" /><br><strong>Ártabros.</strong>br>Arturo Andrade'],
+  ['Rosa de los Vientos', 43.386703, -8.407727, 0, '<img src="http://ciav.s3.amazonaws.com/img/5-javiercorrea.jpg" alt="" class="pin" /><br><strong>Rosa de los Vientos.</strong><br>Javier Correa'],
+  ['Espinoso', 43.387164, -8.408210, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/6-chicherri.jpg" alt="" /><br><strong>Espinoso.</strong><br>E. Saavedra Chicherri.'],
+  ['Los Guardianes', 43.385090, -8.407137, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/7-soledadpenalta.jpg" alt="" /><br><strong>Los Guardianes.</strong><br>Soledad Penalta.'],
+  ['Ara Solis', 43.385324, -8.406848, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/8-silveriorivas.jpg" alt="" /><br><strong>Ara Solis.</strong><br>Silverio Rivas.'],
+  ['Hidra de Lerna', 43.385293, -8.405807, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/9-fidelgoas.jpg" alt="" /><br><strong>Hidra de Lerna.</strong><br>Fidel Goás Mendes.'],
+  ['Breogán', 43.384887, -8.402599, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/breogan-thumb.jpg"><br><strong>Breogán.</strong><br>José Cid.'],
+  ['Caronte', 43.384100, -8.402224, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/11-ramonconde.jpg" alt="" /><br><strong>Caronte.</strong><br>Ramón Conde.'],
+  ['Caracola', 43.388801, -8.401022, 0, '<img src="http://ciav.s3.amazonaws.com/img/12-monchoamigo.jpg" alt="" class="pin" /><br><strong>Caracola.</strong><br>Moncho Amigo.'],
+  ['La Copa del Sol', 43.387499, -8.398029, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/13-pepegalan.jpg" alt="" /><br><strong>La Copa del Sol.</strong><br>Pepe Galán.'],
+  ['Hércules en la Nave de los Argonautas', 43.386376, -8.396838, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/14-gonzaloviana.jpg" alt="" /><br><strong>Hércules en la Nave de los Argonautas.</strong><br>Gonzalo Viana'],
+  ['Guitarra', 43.384326, -8.403844, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/15-pabloserrano.jpg" alt="" /><br><strong>Guitarra.</strong><br>Pablo Serrano.'],
+  ['Monumento a los Fusilados', 43.384879, -8.393351, 0, '<img src="http://ciav.s3.amazonaws.com/img/16-diazpardo.jpg" alt="" class="pin" /><br><strong>Monumento a los Fusilados.</strong><br>Isaac Díaz Pardo'],
+  ['Puertas de Hércules', 43.386228, -8.406408, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/17B-franciscoleiro.JPG" alt="" /><br><strong>Puertas de Hércules.</strong><br>Francisco Leiro'],
+  ['Estatua de Carlos III', 43.385745, -8.406140, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/18-carlosiii.jpg" alt="" /><br><strong>Estatua de Carlos III</strong>'],
+  ['Estatua de Hércules', 43.386096, -8.406547, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/19-franciscoleiro.jpg" alt="" /><br><strong>Estatua de Hércules.</strong><br>Francisco Leiro.']
   
 ];
 
 
       var sites2 = [
-       ['Torre de Hércules', 43.385971,-8.406483, 0, 'Torre de Hércules'],
-       ['Petroglifos de Punta Herminia', 43.38771,-8.398887, 0, 'Petroglifos de Punta Herminia']
+       ['Torre de Hércules', 43.385971,-8.406483, 0, '<img src="http://ciav.s3.amazonaws.com/img/20-torre.jpg" alt="" class="pin" /><br>Torre de Hércules'],
+       ['Petroglifos de Punta Herminia', 43.38771,-8.398887, 0, '<img src="http://ciav.s3.amazonaws.com/img/21-petroglifos.jpg" alt="" class="pin" /><br>Petroglifos de Punta Herminia']
        ];
 
 
        var sites3 = [
        ['San Amaro', 43.381901,-8.396816, 0, 'San Amaro'],
-       ['O Grelle', 43.383881,-8.393619, 0, 'O Grelle'],
+       ['O Grelle', 43.383881,-8.393619, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/23-adormideras.jpg" alt="" /><br>O Grelle'],
        ['Area de Concha', 43.384528,-8.392675, 0, 'Area de Concha'],
        ['O Coido', 43.386174,-8.395904, 0, 'O Coido'],
-       ['O Areal', 43.383959,-8.406129, 0, 'O Areal']
+       ['O Areal', 43.383959,-8.406129, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/26-aslapas.jpg" alt="" /><br>O Areal']
        ];
 
        var sites4 = [
        ['Carmen Vilariño', 43.387834,-8.395078, 0, 'Carmen Vilariño'],
        ['Iris', 43.392918,-8.412223, 0, 'Iris'],
        ['Gondiez 1', 43.389955,-8.411665, 0, 'Gondiez 1'],
-       ['Aegean Sea', 43.388396, -8.407867, 0, '<img src="http://ciav.s3.amazonaws.com/img/egeo-thumb.jpg" ><br>Aegean Sea'],
+       ['Aegean Sea', 43.388396, -8.407867, 0, '<img class="pin" src="http://ciav.s3.amazonaws.com/img/egeo-thumb.jpg" ><br>Aegean Sea'],
        ['Isla', 43.388271,-8.412223, 0, 'Isla'],
        ['Juan Puebla', 43.388957,-8.396816, 0, 'Juan Puebla']
        ];
@@ -155,13 +155,13 @@ var infowindow = null;
             var marker = new google.maps.Marker({
                 position: siteLatLng,
                 map: map,
-                icon: 'http://ciav.s3.amazonaws.com/icon/orange_MarkerA.png',
+                icon: 'http://ciav.s3.amazonaws.com/icon/statue-2.png',
                 title: sites[0],
                 zIndex: sites[3],
                 html: sites[4]
             });
 
-            var contentString = "Some content";
+            var contentString = "Statue";
 
             google.maps.event.addListener(marker, "click", function () {
                 infowindow.setContent(this.html);
@@ -179,13 +179,13 @@ var infowindow = null;
             var marker = new google.maps.Marker({
                 position: siteLatLng,
                 map: map,
-                icon: 'http://ciav.s3.amazonaws.com/icon/brown_MarkerB.png',
+                icon: 'http://ciav.s3.amazonaws.com/icon/petroglyphs.png',
                 title: sites[0],
                 zIndex: sites[3],
                 html: sites[4]
             });
 
-            var contentString = "Some content";
+            var contentString = "petroglyphs";
 
             google.maps.event.addListener(marker, "click", function () {
                 infowindow.setContent(this.html);
@@ -203,13 +203,13 @@ var infowindow = null;
             var marker = new google.maps.Marker({
                 position: siteLatLng,
                 map: map,
-                icon: 'http://ciav.s3.amazonaws.com/icon/paleblue_MarkerC.png',
+                icon: 'http://ciav.s3.amazonaws.com/icon/beach.png',
                 title: sites[0],
                 zIndex: sites[3],
                 html: sites[4]
             });
 
-            var contentString = "Some content";
+            var contentString = "Beach";
 
             google.maps.event.addListener(marker, "click", function () {
                 infowindow.setContent(this.html);
@@ -227,13 +227,13 @@ function setMarkers4(map, markers) {
             var marker = new google.maps.Marker({
                 position: siteLatLng,
                 map: map,
-                icon: 'http://ciav.s3.amazonaws.com/icon/red_MarkerD.png',
+                icon: 'http://ciav.s3.amazonaws.com/icon/shipwreck-2.png',
                 title: sites[0],
                 zIndex: sites[3],
                 html: sites[4]
             });
 
-            var contentString = "Some content";
+            var contentString = "shipwreck";
 
             google.maps.event.addListener(marker, "click", function () {
                 infowindow.setContent(this.html);

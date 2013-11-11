@@ -161,15 +161,17 @@ body {	background: $white;
 		.active {color:$black;font-weight: bold;}
 		a.active:hover {color:$black;}
 		img {width: 100%;}
+		img.pin {width:100px;}
 
 		video {	max-width: 100%;
 				height: auto; }
 		h1 {text-transform:lowercase;font-size:1.5em;padding-bottom:$base-line-height;}
 		h2 {font-weight: bold;padding-bottom:$base-line-height;}
+		h3 {font-size:1em; text-transform: lowercase;font-weight: bold;text-decoration: underline;padding-bottom:$base-line-height;padding-top:$base-line-height;}
 		p {padding-bottom: $base-line-height / 2;}
 		p.legend {padding-top: $base-line-height; font-size: 0.8em;}
 		strong {font-weight: bold;}
-		ol {list-style-type: decimal-leading-zero; li{font-size:0.8em; padding-right:1em;}}
+		ol {list-style-position:inside;list-style-type:decimal;}
 		blockquote {font-family: "kepler-std"; border-left:$border; margin-top: $base-line-height; margin-bottom: $base-line-height; }
 
 		 #map-canvas, #map-imperium { width:100%; height: $base-line-height * 20;
@@ -178,6 +180,7 @@ body {	background: $white;
 		 }
 
 		 #map-directions {display: none;}
+		 #infoWindow {width: 150px !important;}
 
 		 #roman-empire-map {width:100%; height: $base-line-height * 20;}
 
@@ -207,6 +210,7 @@ body {	background: $white;
   					}
 
   					h2 {padding-bottom: $base-line-height; text-transform: uppercase; font-weight: normal;}
+  					
 
 
 
