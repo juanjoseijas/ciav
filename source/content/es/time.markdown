@@ -91,7 +91,7 @@ Desde su construcción sigue cumpliendo la misión de orientar y dirigir a los n
       <div class="imagecontent"><img src="http://ciav.s3.amazonaws.com/img/jose-cornide.jpg" alt=""></div>
       <div class="textcontent">
         <p>Entre 1733 y 1734 el ingeniero Carlos Boysin participa en los intentos por restaurar el faro. Sus planos le servirán de referencia a José Cornide.</p>
-        <p>En 1769 un rayo incendia y destruye uno de los dos faroles, y único en funcionamiento, instalados en 1685.</p>
+        <p>En 1769 un rayo incendia y destruye uno de los dos faroles, y único en funcionamiento, instalados en 1685.</p>
         <p>Balthasar Ricaud, en 1772, levanta el plano que es considerado el primero que representa a la Torre con fidelidad con motivo de una reparación.</p>
         <p>Entre 1788 y 1790, el tándem formado por el ingeniero Eustaquio Giannini y el geógrafo José Cornide Saavedra colaboran en la reconstrucción de la Torre.</p>
         <p>En 1792 José Cornide publica la primera monografía del faro.</p>
@@ -123,8 +123,8 @@ Desde su construcción sigue cumpliendo la misión de orientar y dirigir a los n
         <p>En 1945 el arqueólogo Luis Monteagudo obtiene materiales de época romana.</p>
         <p>En 1955 se proyecta la edificación de nuevas viviendas para torreros.</p>
         <p>En 1975 se llevan a cabo obras para proteger el edificio, además de renovar el pavimento de la plataforma.</p>
-        <p>En 1990, fruto de una breve campaña arqueológica, se encuentran restos de época romana y el Ministerio de Obras Públicas convoca un concurso para restaurar la Torre. Las obras se vejecutan durante el año siguiente.</p>
-        <p>En 1991 el Ministerio de Obras Públicas restaura la Torre de Hércules.</p>
+        <p>En 1990, fruto de una breve campaña arqueológica, se encuentran restos de época romana y el Ministerio de Obras Públicas convoca un concurso para restaurar la Torre. Las obras se vejecutan durante el año siguiente.</p>
+        <p>En 1991 el Ministerio de Obras Públicas restaura la Torre de Hércules.</p>
         <p>En 1993 el petrolero Mar Egeo naufraga frente a la Torre causando un desastre ecológico.</p>
       </div>
 

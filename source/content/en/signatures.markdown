@@ -9,7 +9,7 @@ Much later, in the 17th century the Duke of Uceda left his inscription on a bloc
 drawing a comparison between this lighthouse in A Coruña and the one in Alexandria, Egypt »,
 
 
-During the neoclassical remodeling in the 18th century, José Cornide produced two commemorative plaques located above the entrance doors, which commemorate the work performed during the reigns of Charles III and Charles IV of Spain. During this same century, Eustaquio Giannini left this evidence of his direction of the renovation work:
+During the neoclassical remodeling in the 18th century, José Cornide produced two commemorative plaques located above the entrance doors, which commemorate the work performed during the reigns of Charles III and Charles IV of Spain. During this same century, Eustaquio Giannini left this evidence of his direction of the renovation work:
 
 > «DIRIXIO ESTA OBRA EL THENIENTE DE NAVIO INGº ORDINARIO DE MARINA D. EUSTAQUIO GIANNINI».
 

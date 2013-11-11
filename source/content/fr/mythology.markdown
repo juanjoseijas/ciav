@@ -21,4 +21,4 @@ À la fin du XVe siècle, la Tour est incluse dans le blason de la ville et dev
 
 Ainsi, c’est le monument le plus visité par les touristes. Son image est reproduite sur de nombreuses photographies, cartes postales et vidéos promotionnelles de la ville et de la Galice. Sa présence dans les médias s’est également accentuée après son inclusion 35 dans la Liste du Patrimoine Mondial en 2009.
 
-Source d’inspiration pour de nombreux artistes tels que Urbano Lugrís ou Luis Seoane au cours du XXe siècle, le phare romain a aussi été témoin du caractère le plus inhospitalier de l’Océan Atlantique en observant depuis son sommet comment s’échouaient des pétroliers comme le Urquiola ou le Mer Egée provoquant de graves désastres écologiques.
+Source d’inspiration pour de nombreux artistes tels que Urbano Lugrís ou Luis Seoane au cours du XXe siècle, le phare romain a aussi été témoin du caractère le plus inhospitalier de l’Océan Atlantique en observant depuis son sommet comment s’échouaient des pétroliers comme le Urquiola ou le Mer Egée provoquant de graves désastres écologiques.
