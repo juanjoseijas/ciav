@@ -62,9 +62,51 @@ de:
     name: "Nombre"
     email: "Email"
     follow-us: "Síguenos en"
+    cities: "Städte"
+    ports: "Häfen"
+    lighthouses: "Leuchttürme"
+    routes: "Wege"
     tag: "Comparte tus fotos con nosotros en instagram o twitter con el hashtag #ciav"
     subscription: "Quiero subscribirme"
     newsletter_legend: "Subscríbete a nuestra newsletter"
     newsletter_description: "Nuestro newsletter es una manera de mantenermos en contacto contigo: no facilitamos tus datos a nadie, y sólo te mandaremos un email mensual con novedades y ofertas."
+
+  caption:
+    pic1: "Ansicht des römischen Turms mit an gerade Stützen gelehntem Außenkörper. José Cornide. 1792. Investigaciones sobre la fundación y fábrica de la Torre de Hércules. (Untersuchungen über die Gründung und das Mauerwerk des Herkulesturms). Eigentum von Carlos Martínez Barbeito."
+    pic2: "Ansicht des römischen Turms mit an gerade Stützen gelehntem Außenkörper. José Cornide. 1792. Investigaciones sobre la fundación y fábrica de la Torre de Hércules. (Untersuchungen über die Gründung und das Mauerwerk des Herkulesturms). Eigentum von Carlos Martínez Barbeito."
+    pic3: "Hypothetischer primitiver Wachturm. Zeichnung von E. Castillo Basoa. Der Herkulesturm von F. Tettamancy Gastón. Faksimile-Wiederauflage der offiziellen Kammer der Baumeister und Architekten von A Coruña."
+    pic4: "Karte von A Coruña. Pablo Teixeira. 1634. Atlas del Rey Planeta. La descripción de España de las costas y puertos de sus reinos (Die Beschreibung von Spanien, der Küsten und Häfen seiner Königreiche)."
+    pic5: "Bucht von A Coruña. José Cornide und J. Ximeno. 1792. Investigaciones sobre la fundación y fábrica de la Torre de Hércules. AMC. Concello de A Coruña. (Untersuchungen über die Gründung und das Mauerwerk des Herkulesturms. AMC. Gemeinde von A Coruña)."
+    pic6: "Abbildung des Herkulesturms nach seinem Wiederaufbau. José Cornide. 1792. Investigaciones sobre la fundación y fábrica de la Torre de Hércules. (Untersuchungen über die Gründung und das Mauerwerk des Herkulesturms). Eigentum von Carlos Martínez Barbeito." 
+    pic7: "Tabula Peutingeriana. Conraadi Millieri. 1887 – 1889. Original aus dem 1.-4. Jh. v. Chr. Bibliotheca Augustana."
+    pic8: "Weltkarte des Beatus von Osma. 1085. Faksimile-Wiedergabe der „Mapa Mundi” in der Ausgabe von Burgo de Osma mit den Apokalypsen-Kommentaren."
+    pic9: "Karte von Hereford. Kopie des Originals von 1250-1369 angefertigt von Richard Haldingham. Nationalbibliothek Paris."
+    pic10: "Miniaturbild von Alfons IX. 13. Jahrhundert. Schriftensammlung A der Kathedrale von Santiago. Historisches Archiv der Kathedrale von Santiago." 
+    pic11: "Francis Drake (Gravur). Jocodus Hondius. 1577. Herausgegeben von George Vertue im 18. Jahrhundert und veröffentlicht in „Franciscus Drack Nobilissimus Eques Angliae Ano Aet Sue 43”."
+    pic12: "Königin Maria Anna von Pfalz-Neuburg (Gravur). Ende des 17. Jh." 
+    pic13: "Zustand des Turms vor seinem Wiederaufbau. Unbekannter Autor. Ca. 1788. Archiv der Kathedrale, Santiago de Compostela." 
+    pic14: "Porträt des José Cornide (Gravur). Cuevas. Ende des 18. Jh."
+    pic15: "Plan des Herkulesturms. Autor wahrscheinlich José Cornide. 1762. Nationalbibliothek" 
+    pic16: "Iluminierte Zeichnung des bestehenden Turms in einem Manuskript von Cornide). José Cornide. Königliche Akademie für Geschichte, Madrid. Foto Jiménez Salmerón."
+    pic17: "Postkarte. Stadtarchiv von A Coruña." 
+    pic18: "Plakat. Stadtbibliothek für örtliche Studien von A Coruña." 
+    pic19: "Mar Egeo. Fotografía Pablo Mella." 
+    pic20: "Karte des Römischen Reichs. Pierre Du Val. 1677. Carte De L’Empire Romain et en Occident et en Orient." 
+    pic21: "Königreich Galicien. J. Jansonnius und H. Hondius. 1638. Gallaecia Regnum descipta a F. Frt. Ojea Ord. Praed. et postmodum multis in locis emendata et aucta."
+    pic22: "Hommage an den Herkulesturm. Luís Seoane. 1943. Hommage an den Herkulesturm. 49 Zeichnungen von Luis Seoane). Ediciós do Castro, 1989; Faksimile Edición Buenos Aires, Ed. Nova, 1944. Museum der Schönen Künste von A Coruña." 
+    pic23: "Wappen aus dem Adelstitel von Karl V. 1552. Adelstitel von Karl V. Stadtarchiv von A Coruña." 
+    pic24: "Blick auf A Coruña. Urbano Lugrís González. 1959. Museum der Schönen Künste von A Coruña."
+
+
+
+
+
+
+
+
+
+
+
+
 
 
