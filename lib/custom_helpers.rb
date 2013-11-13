@@ -97,4 +97,9 @@ module CustomHelpers
   def available_pages
     %w(about function building signatures time rome environment mythology)
   end
+  
+  # -- Markdown helper --
+  def markdown(text)
+    Tilt['markdown'].new { text }.render(scope=self)
+  end
 end

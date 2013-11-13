@@ -77,6 +77,8 @@ ignore "content/*"
 #   end
 # end
 
+# -- Markdown helper --
+
 # CustomHelpers
 require "lib/custom_helpers"
 helpers CustomHelpers
@@ -108,7 +110,7 @@ configure :build do
   activate :cache_buster
 
   # Use relative URLs
-  # activate :relative_assets
+  activate :relative_assets
 
   # Enable favicon generator
   activate :favicon_maker
