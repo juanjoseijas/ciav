@@ -4,7 +4,7 @@ source 'http://rubygems.org'
 
 gem "middleman", "~>3.1.5"
 gem "middleman-livereload", "~> 3.1.0"
-gem "susy"
+gem "susy", "~> 1.0.9"
 gem "middleman-favicon-maker"
 gem "middleman-smusher"
 gem "middleman-deploy"

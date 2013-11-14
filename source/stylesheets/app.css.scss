@@ -44,7 +44,7 @@ $grid-background-column-color: #eee;
 // grid settings
 
 $total-columns    : 12;
-$column-width     : 3em;
+$column-width     : 2em;
 $gutter-width     : 1em;
 $grid-padding     : 0em;
 
@@ -72,15 +72,14 @@ $container-style: fluid;
 // --------------------------------------------
 // small
 
-#header-wrap {@include span-columns(2,2);}
-#cover {@include span-columns(12,12);height: $base-line-height * 30;}
-#menu {@include span-columns(1,2);}
-#languages {@include span-columns(1 omega,2);text-align: right;}
+#header-wrap {padding:$gutter-width;}
+
+#menu {}
 #navigation-menu {display: none;}
 #navigation-languages {display:none;}
-#header {padding:$gutter-width / 2;}
-#content {padding:$gutter-width / 2;}
-#footer {padding:$gutter-width / 2;}
+#languages {}
+#content {padding:$gutter-width;}
+#footer {padding:$gutter-width;}
 blockquote {padding-left: $gutter-width;}
 
 
@@ -152,32 +151,16 @@ body {	background: $white;
 		font-family: "futura-pt",sans-serif;
 		-webkit-font-smoothing: $fontSmoothing; 
 		color: $graydark;
-
 		padding-bottom: $base-line-height * 6;
-		a {text-decoration:none;
-		   color:$link;
-		 	 }
+		a { text-decoration:none; color:$link; }
 		a:hover {color:$gray;}
 		.active {color:$black;font-weight: bold;}
 		a.active:hover {color:$black;}
-		::selection, ::-moz-selection, ::-webkit-selection {
-		  color: $black;
-		  background-color: $yellow !important;
-  		}
-
-		::before::selection,
-		::before::-moz-selection,
-		::before::-webkit-selection{
-		  background-color: transparent !important;
-		}
-		
 		* { &::-moz-selection { color: $graydark; background-color: $yellow;}
 		&::selection { color: $graydark; background-color: $yellow; }
 		}
-		
 		img {width: 100%;}
 		img.pin {width:100px;}
-
 		video {	max-width: 100%;
 				height: auto; }
 		h1 {text-transform:lowercase;font-size:1.5em;padding-bottom:$base-line-height;}
@@ -189,18 +172,15 @@ body {	background: $white;
 		em {font-style: italic;font-family: "kepler-std";}
 		ol {list-style-position:inside;list-style-type:decimal;}
 		blockquote {font-family: "kepler-std"; border-left:$border; margin-top: $base-line-height; margin-bottom: $base-line-height; }
-
-		 #map-canvas, #map-imperium { width:100%; height: $base-line-height * 20;
+		#map-canvas, #map-imperium { width:100%; height: $base-line-height * 20;
 
 		 		img {max-width: none;}
 		 }
 
 		 #map-directions {display: none;}
 		 #infoWindow {width: 150px !important;}
-
 		 #roman-empire-map {width:100%; height: $base-line-height * 20;}
-
-		#header-wrap {  
+		 #header-wrap {  
 			
 			
 			
@@ -245,7 +225,7 @@ body {	background: $white;
 		#content {
 			z-index: -1;
 			
-			aside {font-size: 0.8em; font-family: "kepler-std";
+			aside {		font-size: 0.8em; font-family: "kepler-std";
 	
 						em {font-style: italic;}
 						img {padding-bottom: $base-line-height;}
