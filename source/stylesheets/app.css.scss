@@ -231,6 +231,9 @@ body {	background: $white;
 	
 						em {font-style: italic;}
 						img {padding-bottom: $base-line-height;}
+						p.centuries {text-align:center;font-family: "futura-pt",sans-serif;
+							span.century {padding-right:$gutter-width;
+								a:hover {border-bottom:$border;color:$black;};}}
 					}
 
 			.bodytext {

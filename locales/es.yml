@@ -97,5 +97,16 @@ es:
     pic23: "Escudo de la Ejecutoria de Carlos I. 1552. Ejecutoria de Carlos I. Archivo Municipal de La Coruña." 
     pic24: "Vista da Coruña. Urbano Lugrís González. 1959. Museo de Bellas Artes de La Coruña."
 
-
-
+  timeline:
+    time0: "S. I a.C."
+    time1: "S.I"
+    time2: "S. IV"
+    time3: "S. VI-VII"
+    time4: "S. X-XI"
+    time5: "S. XIII - XIV"
+    time6: "S. XVI"
+    time7: "S. XVII"
+    time8: "S. XVIII"
+    time9: "S. XIX"
+    time10: "S. XX"
+    time11: "S. XXI"
