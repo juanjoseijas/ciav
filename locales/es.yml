@@ -26,7 +26,7 @@ es:
     rome: Época romana
     environment: Entorno
     mythology: Leyendas y huellas
-    howto: ¿cómo llegar?
+    info: Información de la Torre / CIAV
     legal: Aviso legal
 
   paths:
@@ -39,7 +39,7 @@ es:
     rome: "epoca-romana"
     environment: "entorno"
     mythology: "leyendas-y-huellas"
-    howto: "como-llegar"
+    info: "informacion-de-la-torre"
     legal: "aviso-legal"
 
 

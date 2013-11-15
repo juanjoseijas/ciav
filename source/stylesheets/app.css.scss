@@ -7,8 +7,9 @@
 // general settings
 // Susy & Compass use HTML hacks to support IE 6 and 7. You can turn that off:
 
-// $legacy-support-for-ie6 : false;
-// $legacy-support-for-ie7 : true;
+$legacy-support-for-ie  : true;
+$legacy-support-for-ie6 : $legacy-support-for-ie;
+$legacy-support-for-ie7 : $legacy-support-for-ie;
 
 
 // --------------------------------------------
@@ -168,6 +169,7 @@ body {	background: $white;
 		h3 {font-size:1em; text-transform: lowercase;font-weight: bold;text-decoration: underline;padding-bottom:$base-line-height;padding-top:$base-line-height;}
 		p {padding-bottom: $base-line-height / 2;}
 		p.legend {padding-top: $base-line-height;}
+		aside {font-size: 0.8em; font-family: "kepler-std";}
 		strong {font-weight: bold;}
 		em {font-style: italic;font-family: "kepler-std";}
 		ol {list-style-position:inside;list-style-type:decimal;}
@@ -246,6 +248,15 @@ body {	background: $white;
 			
 
 			}
+			
+			#info { .address {padding:$gutter-width;background: shade($beige,2);margin-bottom: $base-line-height;}
+				
+					ul  {list-style: circle inside none; margin-bottom: $base-line-height;
+						li {margin-bottom:0;}
+						}
+						
+					
+					}
 		}
 
 		#footer {padding-top:0;margin-top:$base-line-height * 3; font-size: 0.8em; img {width:auto; padding-right: 10px;}}

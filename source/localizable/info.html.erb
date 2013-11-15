@@ -1,0 +1,35 @@
+---
+title: info
+layout: layout
+priority: 1.0
+---
+
+<% content_for :googlemap do %>
+	<%= javascript_include_tag "map" %>
+<% end %>
+
+<article itemscope itemtype="http://schema.org/Place">
+	<aside>
+			<div id="map-canvas"></div>			
+	</aside>
+	<div class="bodytext">
+		<header>
+			<hgroup>
+				<h1 itemprop="name"><%= I18n.t('layout.info') %></h1>
+			</hgroup>
+		</header>
+		<section id="info">
+			<div class="address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<p>
+				<span itemprop="name"><strong>Torre de Hércules / CIAV</strong></span><br>
+			    <span itemprop="streetAddress">Avda. Doctor José L. Vázquez Iglesias s/n.</span><br>
+			    <span itemprop="postalCode">15002</span>,
+			    <span itemprop="addressLocality">A Coruña</span>
+				</p>
+			</div>
+			<%= partial "content/#{I18n.locale}/info" %>
+		</section>
+		<footer>
+		</footer>
+	</div>
+</article>
