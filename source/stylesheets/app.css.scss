@@ -278,7 +278,7 @@ body {	background: $white;
 	right: $base-line-height;
 	height: 38px;  /* Height of image */
 	width: 38px; /* Width of image */
-	background: url(/images/scrollup/top.png) no-repeat;
+	background: url(http://ciav.s3.amazonaws.com/scrollup/top.png) no-repeat;
 	z-index: 0;
 
 }
@@ -327,7 +327,7 @@ body {	background: $white;
 
 .bx-wrapper .bx-loading {
 	min-height: 50px;
-	background: url(/images/slide/bx_loader.gif) center center no-repeat #fff;
+	background: url(http://ciav.s3.amazonaws.com/slide/bx_loader.gif) center center no-repeat #fff;
 	height: 100%;
 	width: 100%;
 	position: absolute;

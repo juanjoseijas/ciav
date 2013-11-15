@@ -73,7 +73,7 @@ box-sizing: content-box;
   height: 100%;
 }
 .fr-loading-background {
-  background: $white url('/images/skins/loading.gif') 50% 50% no-repeat;
+  background: $white url('http://ciav.s3.amazonaws.com/skins/loading.gif') 50% 50% no-repeat;
   /*opacity: .8;
   -webkit-border-radius: 3px;
   border-radius: 3px;*/
@@ -180,7 +180,7 @@ box-sizing: content-box;
 }
 .fr-box-wrapper, .fr-ui-wrapper {
   position: relative;
-  background: url('/images/skins/blank.gif');
+  background: url('http://ciav.s3.amazonaws.com/skins/blank.gif');
   overflow: hidden;
 }
 
@@ -192,7 +192,7 @@ box-sizing: content-box;
   border-color: transparent;
   border-style: solid;
   border-width: 0;
-  background: url('/images/skins/blank.gif');
+  background: url('http://ciav.s3.amazonaws.com/skins/blank.gif');
 }
 
 .fr-box-padder, .fr-ui-padder {
@@ -303,7 +303,7 @@ box-sizing: content-box;
   height: 100%;
   cursor: pointer;
   overflow: hidden;
-  background: url('/images/skins/blank.gif') 0 0 repeat;
+  background: url('http://ciav.s3.amazonaws.com/skins/blank.gif') 0 0 repeat;
   -webkit-user-select: none;
   -khtml-user-select: none;
   -moz-user-select: none;
@@ -747,7 +747,7 @@ box-sizing: content-box;
 }
 .fr-thumbnail-loading-background {
   background-color: #101010;
-  background-image: url('/images/skins/loading.gif');
+  background-image: url('http://ciav.s3.amazonaws.com/skins/loading.gif');
   background-position: 50% 50%;
   background-repeat: no-repeat;
   opacity: .8;
@@ -939,7 +939,7 @@ box-sizing: content-box;
   .fr-thumbnails-side { margin: 0 4px; }
   .fr-thumbnails-side-previous { margin-left: 8px; }
   .fr-thumbnails-side-next { margin-right: 8px; }
-  .fr-thumbnail-loading-background { background-image: url('/images/skins/loading-small.gif'); }
+  .fr-thumbnail-loading-background { background-image: url('http://ciav.s3.amazonaws.com/skins/loading-small.gif'); }
 }
 @media all and (min-height: 200px) {
   .fr-thumbnails,
@@ -951,7 +951,7 @@ box-sizing: content-box;
 }
 
 @media all and (min-height: 350px) {
-  .fr-thumbnail-loading-background { background-image: url('/images/skins/loading-medium.gif'); }
+  .fr-thumbnail-loading-background { background-image: url('http://ciav.s3.amazonaws.com/skins/loading-medium.gif'); }
 }
 
 @media all and (min-height: 500px) {
@@ -970,7 +970,7 @@ box-sizing: content-box;
   .fr-thumbnails-side { margin: 0 10px; }
   .fr-thumbnails-side-previous { margin-left: 20px; }
   .fr-thumbnails-side-next { margin-right: 20px; }
-  .fr-thumbnail-loading-background { background-image: url('/images/skins/loading.gif'); }
+  .fr-thumbnail-loading-background { background-image: url('http://ciav.s3.amazonaws.com/skins/loading.gif'); }
 }
 
 /* IE specific resets */
@@ -989,7 +989,7 @@ box-sizing: content-box;
 .fr-window-fresco .fr-touch-close .fr-touch-button-icon,
 .fr-window-fresco .fr-touch-more .fr-touch-button-icon,
 .fr-window-fresco .fr-thumbnails-side-button-icon {
-  background-image: url('/images/skins/fresco/sprite.png');
+  background-image: url('http://ciav.s3.amazonaws.com/skins/fresco/sprite.png');
 }
 /* High-res sprite */
 @media only screen and (-webkit-min-device-pixel-ratio: 2),
@@ -999,7 +999,7 @@ only screen and (min-device-pixel-ratio: 2) {
   .fr-window-fresco .fr-touch-close .fr-touch-button-icon,
   .fr-window-fresco .fr-touch-more .fr-touch-button-icon,
   .fr-window-fresco .fr-side-button-icon {
-    background-image: url('/images/skins/fresco/sprite@x2.png');
+    background-image: url('http://ciav.s3.amazonaws.com/skins/fresco/sprite@x2.png');
     background-size: 500px 500px; /* downscaled 50%, size of original sprite */
   }
 }
@@ -1244,7 +1244,7 @@ only screen and (min-device-pixel-ratio: 2) {
 .fr-window-IE6 .fr-side-button-icon,
 .fr-window-IE6 .fr-close-icon,
 .fr-window-IE6 .fr-thumbnails-side-button-icon {
-  background-image: url('/images/skins/IE6/sprite.png');
+  background-image: url('http://ciav.s3.amazonaws.com/skins/IE6/sprite.png');
 }
 
 /* < > */
