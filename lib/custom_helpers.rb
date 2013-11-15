@@ -60,8 +60,8 @@ module CustomHelpers
     page_path 'legal'
   end
 
-  def contact_path
-    page_path 'contact'
+  def info_path
+    page_path 'info'
   end
 
   # -- Locale --
