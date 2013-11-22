@@ -35,6 +35,11 @@ $gray           		: #C0BEBA;
 $graylight      		: #E2E0DC;
 $graydark       		: #333333;
 $yellow					: #F5C33D;
+$emerald					: #1abc9c;
+$blue 					: #3498db;
+$asbestos 					: #7f8c8d;
+$pumpkin 				: #d35400;
+$sunflower : #f1c40f;
 $link           		: $black;
 
 $border 				: 1px solid $yellow;
@@ -168,7 +173,16 @@ body {	background: $white;
 		h2 {font-weight: bold;padding-bottom:$base-line-height;}
 		h3 {font-size:1em; text-transform: lowercase;font-weight: bold;text-decoration: underline;padding-bottom:$base-line-height;padding-top:$base-line-height;}
 		p {padding-bottom: $base-line-height / 2;}
-		p.legend {padding-top: $base-line-height;}
+		p.legend {padding-top: $base-line-height; 
+			span {}
+			span.button {border:1px solid $black;padding:$gutter-width / 2;}
+			span.emerald {color:$emerald;}
+			span.blue {color:$blue;}
+			span.asbestos {color: $asbestos;}
+			span.pumpkin {color: $pumpkin; }
+			span.sunflower {color: $sunflower;}
+			
+		}
 		aside {font-size: 0.8em; font-family: "kepler-std";}
 		strong {font-weight: bold;}
 		em {font-style: italic;font-family: "kepler-std";}

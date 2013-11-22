@@ -129,7 +129,6 @@ var sources = [
 ['Marker 10', 43.692323,-7.582917, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Starbanhom</div>'], 
 ['Marker 10', 43.821319,-8.166673, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Cassiterides</div>'], 
 ['Marker 10', 43.251118,-8.903292, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Castellum Aviliobris</div>'], 
-['Marker 10', 42.247423,-8.717793, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Vicus Spacorum</div>'],
 ['Marker 10', 41.146507,-8.637420, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>R Durius</div>'], 
 ['Marker 10', 40.633151,-8.470014, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Talabriga</div>'], 
 ['Marker 10', 40.205265,-8.429767, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Aeminium</div>'],
@@ -142,7 +141,6 @@ var sources = [
 ['Marker 10', 51.728470,0.873512, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Othona Portus</div>'], 
 ['Marker 10', 51.403535,0.553763, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Durobrivae</div>'], 
 ['Marker 10', 51.380692,1.195164, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Regulbium</div>'], 
-['Marker 10', 51.128380,1.322939, 3,'http://ciav.s3.amazonaws.com/icon/lighthouse.png','','<div>Portus Dubris</div>'],
 ['Marker 10', 50.941937,0.754811, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Portus Lemanus</div>'], 
 ['Marker 10', 50.821313,-0.241879, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Novus Portus</div>'], 
 ['Marker 10', 50.829377,-0.816374, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>port of Noviomagus Regnorum</div>'], 
@@ -180,6 +178,8 @@ var sources = [
 ['Marker 10', 37.076532,-7.707139, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Balsa </div>'], 
 ['Marker 10', 37.244446,-6.938916, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Onuba </div>'], 
 ['Marker 10', 37.308446,-6.255266, 2,'http://ciav.s3.amazonaws.com/icon/port.png','','<div>Olontigi </div>'], 
+
+
 ['Marker 10', 37.290481,-6.054497, 1,'http://ciav.s3.amazonaws.com/icon/city.png','','<div>Caura </div>'], 
 ['Marker 10', 37.356791,-6.041858, 1,'http://ciav.s3.amazonaws.com/icon/city.png','','<div>Osset </div>'], 
 ['Marker 10', 37.388205,-5.990519, 1,'http://ciav.s3.amazonaws.com/icon/city.png','','<div>Hispalis </div>'], 
@@ -189,16 +189,54 @@ var sources = [
 
 ['Marker 11', 36.536123,-6.278687, 3,'http://ciav.s3.amazonaws.com/icon/lighthouse.png','','<div>Gades<div>'],
 ['Marker 11', 38.416065, -9.216196, 3,'http://ciav.s3.amazonaws.com/icon/lighthouse.png','','<div>Promontorium Barbarium, Pirgo Barbarion<div>'],
-
 ['Marker 11', 38.367871,-8.514263, 3,'http://ciav.s3.amazonaws.com/icon/lighthouse.png','','<div>Turris Salacinorum<div>'],
 ['Marker 11', 35.782625,-5.794372, 3,'http://ciav.s3.amazonaws.com/icon/lighthouse.png','','<div>Tingi Mauretaniam, Thigge, Tingis, Thymiateria, Thymaterion <div>'],
 ['Marker 11', 43.386195, -8.406510, 3,'http://ciav.s3.amazonaws.com/icon/lighthouse.png','','<div>Turris Brigantia<div>'],
-['Marker 11', 42.675720,-8.726651, 3,'http://ciav.s3.amazonaws.com/icon/lighthouse.png','','<div>Turris Augustis<div>']
+['Marker 11', 42.675720,-8.726651, 3,'http://ciav.s3.amazonaws.com/icon/lighthouse.png','','<div>Turris Augustis<div>'],
+['Marker 10', 51.128380,1.322939, 3,'http://ciav.s3.amazonaws.com/icon/lighthouse.png','','<div>Portus Dubris</div>'],
 
 
-
-
-
+['Marker 100', 43.027741, -7.797546, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Caranico (Friol)<div>'],
+['Marker 101', 43.032761, -8.022766, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Cohors Celtiberum Cidadela (Sobrado dos Monxes)<div>'],
+['Marker 102', 43.209680, -8.688812, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Atricondo (Carballo)<div>'],
+['Marker 103', 43.095969, -8.914032, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Grandimiro (Brandomil, Zás)<div>'],
+['Marker 104', 42.790740, -8.885021, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Ad Duos Pontes (Santa Cristina de Barro)<div>'],
+['Marker 105', 42.608190, -9.001923, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Vicus Spacorum<div>'],
+['Marker 106', 42.602631, -8.640747, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Aquis Celenis (Caldas de Reis)<div>'],
+['Marker 107', 41.542506, -8.425140, 1,'http://ciav.s3.amazonaws.com/icon/city.png','','<div>Bracara (Braga)<div>'],
+['Marker 108', 41.650341, -8.283691, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Salaniana (Travassos)<div>'],
+['Marker 109', 41.680625, -8.189702, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Aquis Originis (Baños de Riocaldo)<div>'],
+['Marker 110', 42.032242, -7.973035, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Aquis Querquennis (Bande)<div>'],
+['Marker 111', 42.249748, -7.525635, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Salientibus (Xinzo da Costa)<div>'],
+['Marker 112', 42.317432, -7.327194, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Praesidio (Vilamaior)<div>'],
+['Marker 113', 42.338547, -7.249734, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Nemetobriga (Pobla de Trives)<div>'],
+['Marker 114', 42.418018, -7.011639, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Foro (Pobra de Valdeorras)<div>'],
+['Marker 115', 42.505082, -6.872965, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Gemestario (Portela de Aguiar)<div>'],
+['Marker 116', 42.598666, -6.725914, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Bergido (Cacabelos)<div>'],
+['Marker 117', 42.622778, -6.434444, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Intereraconio Flavio (San Román de Bembibre)<div>'],
+['Marker 118', 42.454930, -6.053251, 1,'http://ciav.s3.amazonaws.com/icon/city.png','','<div>Asturica Augusta (Astorga)<div>'],
+['Marker 119', 41.774384, -8.562469, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Limia<div>'],
+['Marker 120', 42.049155, -8.646610, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Tude (Tuy)<div>'],
+['Marker 121', 42.281852, -8.609170, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Burbida<div>'],
+['Marker 122', 42.429885, -8.644620, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Turoqua<div>'],
+['Marker 123', 42.745933, -8.655590, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Iria<div>'],
+['Marker 124', 42.880556, -8.544745, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Asseconia<div>'],
+['Marker 125', 42.913951, -8.014692, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Brevis<div>'],
+['Marker 126', 42.964463, -7.712402, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Marcie<div>'],
+['Marker 127', 42.893904, -7.250424, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Timalino<div>'],
+['Marker 128', 42.918331, -7.208915, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Ponte Naviae<div>'],
+['Marker 129', 42.656182, -6.902161, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Vitaris<div>'],
+['Marker 129', 43.008664, -7.557220, 1,'http://ciav.s3.amazonaws.com/icon/city.png','','<div>Lucus (Lugo)<div>'],
+['Marker 130', 41.634322, -8.141620, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Salacia (Vieira do Minho)<div>'],
+['Marker 131', 41.826630, -7.787870, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Praesidio (Montalegre)<div>'],
+['Marker 132', 41.726230, -7.750854, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Caladunum<div>'],
+['Marker 133', 41.741781, -7.473165, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Aquae Flaviae (Chaves)<div>'],
+['Marker 134', 41.608716, -7.310906, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Pinetum (Valpaços)<div>'],
+['Marker 135', 41.830723, -7.009300, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Roboretum (Vinhais)<div>'],
+['Marker 136', 41.806113, -6.756738, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Compleutica (Bragança)<div>'],
+['Marker 137', 41.868690, -6.441686, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Veniatia (Figueruela de Arriba)<div>'],
+['Marker 138', 42.072218, -6.013660, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Petavonium (Santibañez de Vidriales)<div>'],
+['Marker 139', 42.312569, -5.975957, 4,'http://ciav.s3.amazonaws.com/icon/mansio.png','','<div>Argentiolum (Miñambres de la Valduerna)<div>']
 ];
 
 var hercules = new google.maps.LatLng(43.385833, -8.406389);
@@ -263,7 +301,7 @@ var featureOpts = [
 var lines = [
 
 //Green
-    ['LAB046', 1, "#00FFBF", 3,
+    ['LAB046', 1, "#00FFBF", 2,
     new google.maps.LatLng(41.746726, 12.290955), // Roma
     new google.maps.LatLng(41.182788, 13.027039),
     new google.maps.LatLng(41.176587, 13.425293),
@@ -281,8 +319,7 @@ var lines = [
     new google.maps.LatLng(31.344254,32.728271)
     ],
 
-    //new google.maps.LatLng()
-    ['LAB047', 1, "#00FFBF", 3,
+    ['LAB047', 1, "#00FFBF", 2,
     new google.maps.LatLng(31.344254,32.728271),
     new google.maps.LatLng(31.367709,33.953247),
     new google.maps.LatLng(32.944149,34.903564),
@@ -300,7 +337,7 @@ var lines = [
     new google.maps.LatLng(39.414977, 25.504761)
     ],
 
-    ['LAB048', 1, "#00FFBF", 3,
+    ['LAB048', 1, "#00FFBF", 2,
     new google.maps.LatLng(39.414977, 25.504761),
     new google.maps.LatLng(39.728313, 25.565186),
     new google.maps.LatLng(39.898148, 25.738220),
@@ -319,7 +356,7 @@ var lines = [
     ], //  Bizantium
 
 
-    ['LAB049', 1, "#00FFBF", 3,
+    ['LAB049', 1, "#00FFBF", 2,
     new google.maps.LatLng(39.414977, 25.504761),
     new google.maps.LatLng(40.446947, 25.202637),
     new google.maps.LatLng(39.816975, 24.191895),
@@ -339,7 +376,7 @@ var lines = [
 
  // Yellow   
 
-    ['LAB050', 1, "#DFFF7F", 3,
+    ['LAB050', 1, "#DFFF7F", 2,
     new google.maps.LatLng(36.057981, -5.339355), // Columnae Herculis
     new google.maps.LatLng(35.380093, -4.592285),
     new google.maps.LatLng(35.585852, -2.922363),
@@ -357,7 +394,7 @@ var lines = [
     new google.maps.LatLng(31.756196, 19.665527)
     ],
 
-    ['LAB050', 1, "#DFFF7F", 3,
+    ['LAB050', 1, "#DFFF7F", 2,
     new google.maps.LatLng(31.756196, 19.665527), // Columnae Herculis
     new google.maps.LatLng(32.481963, 19.973145),
     new google.maps.LatLng(32.870360, 21.027832),
@@ -377,7 +414,7 @@ var lines = [
 
 // Blue   
 
-    ['LAB050', 1, "#7FDFFF", 3,
+    ['LAB050', 1, "#3498db", 2,
     new google.maps.LatLng(41.746726, 12.290955),
     new google.maps.LatLng(42.269179, 10.788574),
     new google.maps.LatLng(42.236652, 9.821777),
@@ -397,7 +434,7 @@ var lines = [
 
     // Blue   
 
-    ['LAB050', 1, "#7FDFFF", 3,
+    ['LAB050', 1, "#3498db", 2,
     new google.maps.LatLng(37.596824,-0.593262),
     new google.maps.LatLng(37.247821, -1.593018),
     new google.maps.LatLng(36.721274, -2.032471),
@@ -418,7 +455,7 @@ var lines = [
 
 // Blue   
 
-    ['LAB050', 1, "#7FDFFF", 3,
+    ['LAB050', 1, "#3498db", 2,
     new google.maps.LatLng(36.949892, -9.003296),
     new google.maps.LatLng(37.983175, -9.096680),
     new google.maps.LatLng(38.363195, -9.239502),
@@ -436,7 +473,7 @@ var lines = [
     new google.maps.LatLng(43.640051, -8.355103)
     ], 
 
-    ['LAB050', 1, "#7FDFFF", 3,
+    ['LAB050', 1, "#3498db", 2,
     new google.maps.LatLng(43.640051, -8.355103),
     new google.maps.LatLng(43.818675, -7.888184),
     new google.maps.LatLng(43.723475, -7.333374),
@@ -454,7 +491,7 @@ var lines = [
     new google.maps.LatLng(46.924007, -2.411499)
     ],
 
-    ['LAB050', 1, "#7FDFFF", 3,
+    ['LAB050', 1, "#3498db", 2,
     new google.maps.LatLng(46.924007, -2.411499),
     new google.maps.LatLng(47.368594, -3.026733),
     new google.maps.LatLng(47.698672, -3.823242),
@@ -477,7 +514,7 @@ var lines = [
 
 //Red
 
-    ['LAB099', 1, "#ff7f7f", 3,
+    ['LAB099', 1, "#ff7f7f", 2,
     new google.maps.LatLng(51.044848, 6.948853),
     new google.maps.LatLng(50.992150, 6.782684),
     new google.maps.LatLng(51.016347, 6.733932),
@@ -493,9 +530,91 @@ var lines = [
     new google.maps.LatLng(51.272226, 1.884155),
     new google.maps.LatLng(51.299711, 1.631470),
     new google.maps.LatLng(51.128380, 1.322939)
-    ]
+    ],
 
 
+	//Via XX 
+
+	    ['viaXX', 1, "#1abc9c", 2,
+	    new google.maps.LatLng(43.008664, -7.557220), //Lucus
+	    new google.maps.LatLng(43.027741, -7.797546), //Friol
+	    new google.maps.LatLng(43.032761, -8.022766), // Sobrado dos Monxes, Cohors Celtiberum Cidadela
+	    new google.maps.LatLng(43.386195, -8.406510), // Brigantium
+	    new google.maps.LatLng(43.209680, -8.688812), // Carballo, Atricondo
+	    new google.maps.LatLng(43.095969, -8.914032), // Brandomil-Zas, Grandimiro
+	    new google.maps.LatLng(42.790740, -8.885021), // Santa Cristina de Barro, Ad Duos Pontes
+        new google.maps.LatLng(42.760625, -8.928452),
+	    new google.maps.LatLng(42.733900, -8.964844),
+	    new google.maps.LatLng(42.671329, -9.013596),
+	    new google.maps.LatLng(42.608190, -9.001923), // Vicus Spacorum
+	    new google.maps.LatLng(42.661736, -8.910599),
+	    new google.maps.LatLng(42.704641, -8.794556),
+	    new google.maps.LatLng(42.721290, -8.648987),
+	    new google.maps.LatLng(42.602631, -8.640747) // Aquis Celenis (Caldas de Reis)
+	    ],
+
+
+		//Via XVIII Via Nova 
+
+		    ['viaXVIII', 1, "#7f8c8d", 2,
+		    new google.maps.LatLng(41.542506, -8.425140), //Bracara (Braga)
+		    new google.maps.LatLng(41.650341, -8.283691), //Salaniana (Travassos)
+		    new google.maps.LatLng(41.680625, -8.189702), // Aquis Originis (Baños de Riocaldo)
+		    new google.maps.LatLng(42.032242, -7.973035), // Aquis Querquennis (Bande)
+		    new google.maps.LatLng(42.249748, -7.525635), // Salientibus (Xinzo da Costa)
+		    new google.maps.LatLng(42.317432, -7.327194), // Praesidio (Vilamaior) 
+		    new google.maps.LatLng(42.338547, -7.249734), // Nemetobriga (Pobla de Trives)
+	        new google.maps.LatLng(42.418018, -7.011639), // Foro (Pobra de Valdeorras)
+		    new google.maps.LatLng(42.505082, -6.872965), // Gemestario (Portela de Aguiar)
+		    new google.maps.LatLng(42.598666, -6.725914), // Bergido (Cacabelos)
+		    new google.maps.LatLng(42.622778, -6.434444), // Intereraconio Flavio (San Román de Bembibre) 
+		    new google.maps.LatLng(42.454930, -6.053251), // Asturica Augusta (Astorga)
+		    new google.maps.LatLng(42.454930, -6.053251),
+		    new google.maps.LatLng(42.454930, -6.053251),
+		    new google.maps.LatLng(42.454930, -6.053251) // 
+		    ],
+			
+			//Via XIX 
+
+			    ['viaXIX', 1, "#d35400", 2,
+			    new google.maps.LatLng(41.542506, -8.425140), // Bracara (Braga)
+			    new google.maps.LatLng(41.774384, -8.562469), // Limia
+			    new google.maps.LatLng(42.049155, -8.646610), // Tude (Tui)
+			    new google.maps.LatLng(42.281852, -8.609170), // Burbida (Redondela)
+			    new google.maps.LatLng(42.429885, -8.644620), // Turoqua (Pontevedra)
+			    new google.maps.LatLng(42.602631, -8.640747), // Aquis Celenis (Caldas de Reis)		     
+			    new google.maps.LatLng(42.745933, -8.655590), // Iria
+		        new google.maps.LatLng(42.880556, -8.544745), // Asseconia
+			    new google.maps.LatLng(42.913951, -8.014692), // Brevis (Melide)
+			    new google.maps.LatLng(42.964463, -7.712402), // Marcie
+			    new google.maps.LatLng(43.008664, -7.557220), // Lucus
+			    new google.maps.LatLng(42.893904, -7.250424), // Timalino (Baralla)
+			    new google.maps.LatLng(42.918331, -7.208915), // Ponte Naviae (Neira de Rei)
+			    new google.maps.LatLng(42.656182, -6.902161), // Vitaris
+			    new google.maps.LatLng(42.598666, -6.725914) // Bergido (Cacabelos)
+			    ],
+				
+				//Via XIX 
+
+				    ['viaXVII', 1, "#f1c40f", 2,
+				    new google.maps.LatLng(41.542506, -8.425140), // Bracara (Braga)
+				    new google.maps.LatLng(41.634322, -8.141620), // Salacia (Vieira do Minho)
+				    new google.maps.LatLng(41.826630, -7.787870), // Praesidio (Montalegre)
+				    new google.maps.LatLng(41.726230, -7.750854), // Caladunum
+				    new google.maps.LatLng(41.741781, -7.473165), // Aquae Flaviae (Chaves)
+				    new google.maps.LatLng(41.608716, -7.310906), // Pinetum (Valpaços)	     
+				    new google.maps.LatLng(41.830723, -7.009300), // Roboretum (Vinhais)
+			        new google.maps.LatLng(41.806113, -6.756738), // Compleutica (Bragança)
+				    new google.maps.LatLng(41.868690, -6.441686), // Veniatia (Figueruela de Arriba)
+				    new google.maps.LatLng(42.072218, -6.013660), // Petavonium (Santibañez de Vidriales)
+				    new google.maps.LatLng(42.312569, -5.975957), // Argentiolum (Miñambres de la Valduerna)
+				    new google.maps.LatLng(42.454930, -6.053251), // Asturica Augusta (Astorga)
+				    new google.maps.LatLng(42.454930, -6.053251), // Asturica Augusta (Astorga)
+				    new google.maps.LatLng(42.454930, -6.053251), // Asturica Augusta (Astorga)
+				    new google.maps.LatLng(42.454930, -6.053251) // Asturica Augusta (Astorga)
+				    ]
+			
+			
 
 
 
@@ -509,8 +628,8 @@ var lines = [
           
 // Creating an object literal containing the properties we want to pass to the map 
           var mapOptions = {
-          zoom: 5,
-          center: roma,
+          zoom: 7,
+          center: hercules,
           mapTypeControlOptions: {
           mapTypeIds: [google.maps.MapTypeId.TERRAIN, MY_MAPTYPE_ID]
         },

@@ -13,7 +13,20 @@ priority: 1.0
 	
 		<div id="map-canvas"></div>
 
-		<p class="legend"><a href="#" onclick="displayMarkers(1);"><%= I18n.t('text.cities') %></a> | <a href="#" onclick="displayMarkers(2);"><%= I18n.t('text.ports') %></a></a> | <a href="#" onclick="displayMarkers(3);"><%= I18n.t('text.lighthouses') %></a></a></p>
+		<p class="legend">
+			<span class="button"><a href="#" onclick="displayMarkers(1);"><%= I18n.t('text.cities') %></a></span>
+			<span class="button"><a href="#" onclick="displayMarkers(2);"><%= I18n.t('text.ports') %></a></span>
+			<span class="button"><a href="#" onclick="displayMarkers(3);"><%= I18n.t('text.lighthouses') %></a></span>
+			<span class="button"><a href="#" onclick="displayMarkers(4);"><%= I18n.t('text.mansio') %></a></span>
+		</p>
+		<p class="legend">
+			<span class="blue">Via per Loca Maritima</span> |  
+			<span class="emerald">Via XX per Loca Maritima</span> |
+			<span class="pumpkin">Via XIX</span> |
+			<span class="asbestos">Via XVIII Via Nova</span> |
+			<span class="sunflower">Via XVII</span>
+		</p>
+		
 	    
    
 	</aside>
