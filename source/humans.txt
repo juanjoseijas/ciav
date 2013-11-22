@@ -1,15 +1,19 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+/* TEAM */
 
-# TEAM
+    Design & Coding: Juanjo Seixas
+	Twitter: @juanjoseixas
+	Site: http://www.efimera.com
 
-    <name> -- <role> -- <twitter>
+/* THANKS */
 
-# THANKS
+	Nicolas Mollet: http://mapicons.nicolasmollet.com
+	OmnesViae: http://omnesviae.org
+	Pleiades: http://pleiades.stoa.org
+	Middleman: http://middlemanapp.com
 
-    <name>
+/* SITE */
 
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
+    Doctype: HTML5
+	Standards: HTML5, CSS3
+	Components: Modernizr, jQuery, Compass, Susy, Typekit
+	IDE: Textmate, Adobe Photoshop
