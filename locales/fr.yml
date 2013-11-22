@@ -27,7 +27,8 @@ fr:
     environment: L'environment
     mythology: Légendes et traces du passé
     howto: ¿cómo llegar?
-    legal: 
+    legal: Conditions d'utilisation
+    info: Information de la Tour / CIAV
 
   paths:
     index: "index"
@@ -41,7 +42,7 @@ fr:
     mythology: "legendes-et-traces-du-passe"
     howto: "como-llegar"
     legal: ""
-
+    info:  "information-de-la-tour-ciav"
 
   menu:
     about: "CIAV"

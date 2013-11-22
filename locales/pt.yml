@@ -27,7 +27,8 @@ pt:
     environment: Ambiente circundante
     mythology: Lendas e trilhos
     howto: ¿cómo llegar?
-    legal: 
+    legal: Termos de Utilização
+    info: Informações da Torre / CIAV
 
   paths:
     index: "index"
@@ -41,6 +42,7 @@ pt:
     mythology: "lendas-e-trilhoss"
     howto: "como-llegar"
     legal: ""
+    info: "informacoes-da-torre-ciav"
 
 
   menu:

@@ -27,7 +27,8 @@ it:
     environment: Dintorni
     mythology: Leggende e orme del passato
     howto: ¿cómo llegar?
-    legal:
+    legal: Termini di utilizzo
+    info: Informazione della Torre / CIAV
 
   paths:
     index: "index"
@@ -41,6 +42,7 @@ it:
     mythology: "leggende-e-orme-del-passato"
     howto: "como-llegar"
     legal: ""
+    info: "informazione-della-torre-ciav"
 
 
   menu:
