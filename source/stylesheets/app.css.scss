@@ -173,14 +173,19 @@ body {	background: $white;
 		h2 {font-weight: bold;padding-bottom:$base-line-height;}
 		h3 {font-size:1em; text-transform: lowercase;font-weight: bold;text-decoration: underline;padding-bottom:$base-line-height;padding-top:$base-line-height;}
 		p {padding-bottom: $base-line-height / 2;}
-		p.legend {padding-top: $base-line-height; 
-			span {}
-			span.button {border:1px solid $black;padding:$gutter-width / 2;}
-			span.emerald {color:$emerald;}
-			span.blue {color:$blue;}
-			span.asbestos {color: $asbestos;}
-			span.pumpkin {color: $pumpkin; }
-			span.sunflower {color: $sunflower;}
+		p.legend { text-align:center;
+			span {padding:$gutter-width / 2;font-family: "futura-pt",sans-serif;text-transform:uppercase;}
+			span.button {padding:$gutter-width / 2;font-family: "futura-pt",sans-serif;text-transform:uppercase;}
+			
+			
+		}
+		ul.legend { text-align:right;font-family: "futura-pt",sans-serif;text-transform:uppercase; padding-top:$base-line-height;
+			
+			.emerald {border-bottom: 1px solid $emerald;}
+			.blue {border-bottom: 1px solid $blue;}
+			.asbestos {border-bottom: 1px solid $asbestos;}
+			.pumpkin {border-bottom: 1px solid $pumpkin; }
+			.sunflower {border-bottom: 1px solid $sunflower;}
 			
 		}
 		aside {font-size: 0.8em; font-family: "kepler-std";}
@@ -209,19 +214,19 @@ body {	background: $white;
 				#banner {
 
 					.logo {
-						width: $base-line-height * 5;
-  						height: $base-line-height * 5;
+						width: $base-line-height * 6;
+  						height: $base-line-height * 6;
   						
   						text-align: center;
   						text-transform: uppercase;
   						font-size: 2em;
-  						padding-top: $base-font-size * 2.5;
+  						padding-top: $base-font-size * 3;
   						border: $border;
   						margin-bottom: $base-line-height;
-  						@include border-radius($base-line-height * 2.5);
+  						@include border-radius($base-line-height * 3);
   					}
 
-  					h2 {padding-bottom: $base-line-height; text-transform: uppercase; font-weight: normal;}
+  					h2 {padding-bottom: $base-line-height; text-transform: uppercase; font-weight: normal; font-size: 0.8em;width: $base-line-height * 6;text-align:center;}
   					
 
 
