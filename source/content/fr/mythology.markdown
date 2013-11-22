@@ -11,7 +11,7 @@ Après avoir vécu une période en état de béatitude, il est sommé de rejoind
 
 Le lien millénaire entre la Tour d’Hercule et La Corogne s’est forgé à travers l’histoire par le biais de l’historiographie, les légendes, la mythologie, la vie quotidienne et différents évènements. Depuis la plus ancienne représentation apparaissant sur la mappemonde du Beatus de Burgo de Osma, vers 1085, le phare est représenté en cartographie, mappemondes, cartes nautiques et plans.
 
-À la fin du XVe siècle, la Tour est incluse dans le blason de la ville et devient non seulement son symbole, mais aussi un monument qui fait partie du jour à jour de ses habitants. Cette caractéristique se perpétue de nos jours dans les logotypes d’entreprises, du mobilier urbain, des souvenirs ou des timbres.
+À la fin du XVe siècle, la Tour est incluse dans le blason de la ville et devient non seulement son symbole, mais aussi un monument qui fait partie du jour à jour de ses habitants. Cette caractéristique se perpétue de nos jours dans les logotypes d’entreprises, du mobilier urbain, des souvenirs ou des timbres.
 
 <div class="photoset-grid" data-layout="21">
 <a href="http://ciav.s3.amazonaws.com/img/PC0035M.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/PC0035M.jpg"></a>

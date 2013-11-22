@@ -1,11 +1,11 @@
-L’actuel Centre d’Interprétation et d’Accueil des Visiteurs (CIAV) de la Tour d’Hercule, décrit dans ce guide, est situé aux pieds de la rampe donnant accès au phare. Ce centre, qui est composé de deux petites salles, reçoit et met à disposition du visiteur des informations historiques et actuelles sur le phare et son environnement.
+L’actuel Centre d’Interprétation et d’Accueil des Visiteurs (CIAV) de la Tour d’Hercule, décrit dans ce web site, est situé aux pieds de la rampe donnant accès au phare. Ce centre, qui est composé de deux petites salles, reçoit et met à disposition du visiteur des informations historiques et actuelles sur le phare et son environnement.
 
 <div class="photoset-grid" data-layout="2">
 <a href="http://ciav.s3.amazonaws.com/img/_DSC3302.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/_DSC3302.jpg"></a>
 <a href="http://ciav.s3.amazonaws.com/img/panorama.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/panorama.jpg"></a>
 </div>
 
-À l’entrée, une sculpture d’Hercule, réalisée par Francisco Leiro, donne la bienvenue au visiteur. Sur la droite, un espace réservé à l’accueil et occupé par un personnel spécialisé fournit des brochures contenant des informations sur la Tour, le CIAV, ainsi que divers documents touristiques sur la ville.
+À l’entrée, une sculpture d’Hercule, réalisée par Francisco Leiro, donne la bienvenue au visiteur. Sur la droite, un espace réservé à l’accueil et occupé par un personnel spécialisé fournit des brochures contenant des informations sur la Tour, le CIAV, ainsi que divers documents touristiques sur la ville.
 
 Sur la gauche, différents modules, cartes, maquettes et écrans interactifs offrent des informations sur l’évolution historique du phare et de son environnement du point de vue patrimonial, culturel et social.
 

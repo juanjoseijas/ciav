@@ -1,4 +1,4 @@
-O actual Centro de Interpretación e Atención ó Visitante (CIAV) da Torre de Hércules, o contido do cal se presenta nesta guía, sitúase ós pes da rampla que permite acceder ó edificio. Destinado a recibir e proporcionar ó visitante información histórica e actual relacionada co monumento e a súa contorna, está composto por dous cubículos.
+O actual Centro de Interpretación e Atención ó Visitante (CIAV) da Torre de Hércules, o contido do cal se presenta nesta web, sitúase ós pes da rampla que permite acceder ó edificio. Destinado a recibir e proporcionar ó visitante información histórica e actual relacionada co monumento e a súa contorna, está composto por dous cubículos.
 
 <div class="photoset-grid" data-layout="2">
 <a href="http://ciav.s3.amazonaws.com/img/_DSC3302.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Cubículos CIAV"><img src="http://ciav.s3.amazonaws.com/img/_DSC3302.jpg"></a>

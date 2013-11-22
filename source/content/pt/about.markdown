@@ -1,4 +1,4 @@
-O atual Centro de Interpretação e Atendimento ao Visitante (CIAV) da Torre de Hércules, cujo conteúdo é apresentado neste guia, situa-se na base da rampa que confere acesso ao edifício. Destinado a receber e proporcionar ao visitante informações históricas e atuais relacionadas com o monumento e o ambiente circundante, é composto por dois cubículos.
+O atual Centro de Interpretação e Atendimento ao Visitante (CIAV) da Torre de Hércules, cujo conteúdo é apresentado neste web site, situa-se na base da rampa que confere acesso ao edifício. Destinado a receber e proporcionar ao visitante informações históricas e atuais relacionadas com o monumento e o ambiente circundante, é composto por dois cubículos.
 
 <div class="photoset-grid" data-layout="2">
 <a href="http://ciav.s3.amazonaws.com/img/_DSC3302.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/_DSC3302.jpg"></a>

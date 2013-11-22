@@ -1,4 +1,4 @@
-L’attuale Centro di Interpretazione e Attenzione al Visitatore (CIAV) della Torre di Ercole, il cui contenuto è presentato in questa guida, si trova ai piedi della rampa d’ingresso dell’edificio. Creato per ricevere i visitatori e offrire loro l’informazione storica e attuale del monumento e dell’ambiente circostante, si articola in due moduli.
+L’attuale Centro di Interpretazione e Attenzione al Visitatore (CIAV) della Torre di Ercole, il cui contenuto è presentato in questa web, si trova ai piedi della rampa d’ingresso dell’edificio. Creato per ricevere i visitatori e offrire loro l’informazione storica e attuale del monumento e dell’ambiente circostante, si articola in due moduli.
 
 <div class="photoset-grid" data-layout="2">
 <a href="http://ciav.s3.amazonaws.com/img/_DSC3302.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Moduli CIAV"><img src="http://ciav.s3.amazonaws.com/img/_DSC3302.jpg"></a>
