@@ -10,12 +10,8 @@ priority: 1.0
 
 <article itemscope itemtype="http://schema.org/Article">
 	<aside>
-		<ul class="bxslider">
-				  <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/_DSC3556.jpg', :class => 'tooltip', :title => '', :alt => 'prueba' %></li>
-				  <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/_DSC3935.jpg', :class => 'tooltip', :title => '', :alt => '' %></li>
-				  <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/aerial-view.jpg', :class => 'tooltip', :title => '', :alt => '' %></li>
-				  <li><%= image_tag 'http://ciav.s3.amazonaws.com/img/postales-2655M.jpg', :class => 'tooltip', :title => '', :alt => '' %></li>
-			</ul>
+		<div id="map-canvas"></div>
+		
 	</aside>
 	<div class="bodytext">
 		<header>
@@ -26,8 +22,7 @@ priority: 1.0
 		<section>
 
 			<%= partial "content/#{I18n.locale}/environment" %>
-			<div id="map-canvas"></div>
-
+			
 		</section>
 		<section>
       <div id="facebook" data-url="<%= data.settings.site.domain %><%= request.path %>" data-text="" data-title="Like"></div>
