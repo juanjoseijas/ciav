@@ -13,7 +13,7 @@ Na [Tábula Peutingeriana](http://gl.wikipedia.org/wiki/Táboa_de_Peutinger), co
 
 <div class="photoset-grid" data-layout="2">
 <a href="http://ciav.s3.amazonaws.com/img/tabula.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Tábula Peutingeriana"><img src="http://ciav.s3.amazonaws.com/img/tabula.jpg"></a>
-<a href="http://ciav.s3.amazonaws.com/img/_DSC3206.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Trirreme"><img src="http://ciav.s3.amazonaws.com/img/_DSC3206.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/_DSC3203.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Trirreme"><img src="http://ciav.s3.amazonaws.com/img/_DSC3203.jpg"></a>
 </div> 
 
 

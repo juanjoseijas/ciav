@@ -13,7 +13,7 @@ En la [Tábula Peutingeriana](http://es.wikipedia.org/wiki/Tabula_Peutingeriana)
 
 <div class="photoset-grid" data-layout="2">
 <a href="http://ciav.s3.amazonaws.com/img/tabula.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Tábula Peutingeriana"><img src="http://ciav.s3.amazonaws.com/img/tabula.jpg"></a>
-<a href="http://ciav.s3.amazonaws.com/img/_DSC3206.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Trirreme"><img src="http://ciav.s3.amazonaws.com/img/_DSC3206.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/_DSC3203.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Trirreme"><img src="http://ciav.s3.amazonaws.com/img/_DSC3203.jpg"></a>
 </div> 
 
 La posición estratégica de Brigantium, el núcleo originario de A Coruña actual, suponía un puerto de abrigo dentro de las rutas comerciales marítimas del Imperio Romano. Este emplazamiento era la localización más septentrional de la costa atlántica y en él hacían escala flotas cargadas de mercancía, además de servir de lugar de carga, descarga y distribución para el resto de la península y otros puertos como los de Burdeos o Cádiz. 

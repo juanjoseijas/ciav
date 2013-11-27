@@ -13,7 +13,7 @@ Die [Tábula Peutingeriana](http://de.wikipedia.org/wiki/Tabula_Peutingeriana), 
 
 <div class="photoset-grid" data-layout="2">
 <a href="http://ciav.s3.amazonaws.com/img/tabula.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Tábula Peutingeriana"><img src="http://ciav.s3.amazonaws.com/img/tabula.jpg"></a>
-<a href="http://ciav.s3.amazonaws.com/img/_DSC3206.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Trireme"><img src="http://ciav.s3.amazonaws.com/img/_DSC3206.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/_DSC3203.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Trirreme"><img src="http://ciav.s3.amazonaws.com/img/_DSC3203.jpg"></a>
 </div> 
 
 Die strategische Lage von Brigantium, dem ursprünglichen Kern des heutigen A Coruña, bot einen schützenden Hafen auf den gewerblichen Schifffahrtswegen des Römischen Reichs. Er lag am nördlichsten Punkt der Atlantikküste und dort legten mit Waren beladene Flotten Zwischenhalt ein; außerdem diente er als Hafen für das Laden und Löschen sowie die Distribution für den Rest der Halbinsel und für andere Häfen wie Bordeaux oder Cádiz.

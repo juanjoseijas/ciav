@@ -13,7 +13,7 @@ The [Peutinger Map](http://en.wikipedia.org/wiki/Tabula_Peutingeriana), preserve
 
 <div class="photoset-grid" data-layout="2">
 <a href="http://ciav.s3.amazonaws.com/img/tabula.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Tábula Peutingeriana"><img src="http://ciav.s3.amazonaws.com/img/tabula.jpg"></a>
-<a href="http://ciav.s3.amazonaws.com/img/_DSC3206.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Trirreme"><img src="http://ciav.s3.amazonaws.com/img/_DSC3206.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/_DSC3203.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Trirreme"><img src="http://ciav.s3.amazonaws.com/img/_DSC3203.jpg"></a>
 </div> 
 
 The strategic position of Brigantium, the original center of modern-day A Coruña, was valued as a sheltered port within the maritime trade routes of the Roman Empire. This setting was the most northern location on the Atlantic coast and fleets loaded with goods could make stopovers there. It also served as a loading, unloading, and distribution point for the rest of the peninsula and for other ports such as Bordeaux and Cadiz.

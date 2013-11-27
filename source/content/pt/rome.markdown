@@ -13,7 +13,7 @@ Na [Tabula Peutingeriana](http://pt.wikipedia.org/wiki/Tabula_Peutingeriana), fo
 
 <div class="photoset-grid" data-layout="2">
 <a href="http://ciav.s3.amazonaws.com/img/tabula.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Tábula Peutingeriana"><img src="http://ciav.s3.amazonaws.com/img/tabula.jpg"></a>
-<a href="http://ciav.s3.amazonaws.com/img/_DSC3206.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Trirreme"><img src="http://ciav.s3.amazonaws.com/img/_DSC3206.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/_DSC3203.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Trirreme"><img src="http://ciav.s3.amazonaws.com/img/_DSC3203.jpg"></a>
 </div> 
 
 A posição estratégica de Brigantium, o núcleo originário da Corunha atual, pressuponha um porto de abrigo dentro das rotas comerciais marítimas do Império Romano. Esta implantação era a localização mais setentrional da costa atlântica e nela faziam escala frotas carregadas de mercadorias, além de servir de local de carga, descarga e distribuição para o resto da Península e outros portos, como os de Bordéus ou Cádis.
