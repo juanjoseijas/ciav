@@ -4,7 +4,7 @@
 //var infowindow = null;
     $(document).ready(function () { initialize();  });
 
-function initialize() {
+// function initialize() {
 
 var sources = [  
 
@@ -745,7 +745,7 @@ function displayMarkers(category) {
                    
         }        
       }    
-    }
+   // }
 
 
 
