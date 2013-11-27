@@ -1,8 +1,11 @@
 La fondation du phare est liée à différentes légendes qui se sont perpétuées au fil du temps. La plus connue est celle d’Hercule, donnant origine au nom de la Tour. C’est [Alphonse X le Sage](http://fr.wikipedia.org/wiki/Alphonse_X_de_Castille) qui aurait, au XIIIe siècle, raconté l’histoire d’Hercule. Celui-ci, va vaincre, après trois jours de lutte acharnée, le géant [Géryon](http://fr.wikipedia.org/wiki/Géryon) qui soumettait la population. Le héros ordonne la construction d’une tour là où il a enterré la tête de son ennemi, et fonde, à proximité, la ville qu’il appelle Crunia, en l’honneur de sa première femme qui a habité les lieux. Ensuite, son neveu Espán, après avoir été nommé Seigneur d’Espagne, termine de construire la Tour du Phare, en la dotant d’une lampe à huile allumée qui ne s’éteindra jamais.
 
-<div class="photoset-grid" data-layout="2">
-<a href="http://ciav.s3.amazonaws.com/img/carta-real.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Carta Real"><img src="http://ciav.s3.amazonaws.com/img/carta-real.jpg"></a>
-<a href="http://ciav.s3.amazonaws.com/img/escudo-1448.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Escudo de 1448"><img src="http://ciav.s3.amazonaws.com/img/escudo-1448.jpg"></a>
+<div class="photoset-grid" data-layout="32">
+<a href="http://ciav.s3.amazonaws.com/img/carta-real.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/carta-real.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/escudo-1448.png" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/escudo-1448.png"></a>
+<a href="http://ciav.s3.amazonaws.com/img/Escudo-reynodegalizia-de-Pedro-Teixeira.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/Escudo-reynodegalizia-de-Pedro-Teixeira.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/IMG_2571.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/IMG_2571.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/IMG_2556.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/IMG_2556.jpg"></a>
 </div> 
 
 La deuxième légende la plus répandue rapporte que [Breogán](http://fr.wikipedia.org/wiki/Breogán) fonde la ville de Brigantia et édifie sur sa côte une tour. Son fils Ith ayant aperçu l’Irlande depuis son sommet, va tenter de conquérir l’île, avant d’être assassiné. Néanmoins, son frère [Mil](http://tinyurl.com/orl5c74), à la tête d’une grande armée, mène à bien son entreprise, en parvenant à contrôler le pays. De son côté, le récit de Trezenzonio mélange les deux histoires précédentes. Ce moine, après avoir parcouru la Galice, monte à la Tour d’où il aperçoit une île et décide de s’y rendre.

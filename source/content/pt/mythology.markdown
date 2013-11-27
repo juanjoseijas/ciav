@@ -1,9 +1,12 @@
 A fundação do farol está associada a diversas lendas que perpetuaram ao longo dos séculos. A mais conhecida é a de Hércules, ao qual a Torre foi buscar o nome. Seria [Afonso X, o Sábio](http://pt.wikipedia.org/wiki/Afonso_X_de_Leão_e_Castela), que no século XIII contaria a história de Hércules, que venceu após três dias de combate com o gigante [Gerião](http://pt.wikipedia.org/wiki/Gerião), que mantinha a população escravizada. No local onde enterrou a cabeça do seu inimigo, o herói teria mandado edificar uma torre e, na sua proximidade, fundou uma cidade a que chamou Crunia, em honra da primeira mulher que habitara na localidade. Posteriormente, o seu sobrinho Espán, depois de ser nomeado senhor de Espanha, acabou de construir a Torre do Farol, munida de um candeia com fogo que nunca se apagaria.
 
-<div class="photoset-grid" data-layout="2">
-<a href="http://ciav.s3.amazonaws.com/img/carta-real.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Carta Real"><img src="http://ciav.s3.amazonaws.com/img/carta-real.jpg"></a>
-<a href="http://ciav.s3.amazonaws.com/img/escudo-1448.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Escudo de 1448"><img src="http://ciav.s3.amazonaws.com/img/escudo-1448.jpg"></a>
-</div> 
+<div class="photoset-grid" data-layout="32">
+<a href="http://ciav.s3.amazonaws.com/img/carta-real.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/carta-real.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/escudo-1448.png" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/escudo-1448.png"></a>
+<a href="http://ciav.s3.amazonaws.com/img/Escudo-reynodegalizia-de-Pedro-Teixeira.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/Escudo-reynodegalizia-de-Pedro-Teixeira.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/IMG_2571.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/IMG_2571.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/IMG_2556.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/IMG_2556.jpg"></a>
+</div>
 
 A segunda lenda mais conhecida conta que [Breogán](http://pt.wikipedia.org/wiki/Breogán) fundou a cidade de Brigantia, em cuja costa edificou uma torre. O seu filho [Ith](http://pt.wikipedia.org/wiki/Ith) teria avistado a Irlanda desde esse ponto e dedicou-se a conquistá-la, apesar de vir a ser assassinado. Contudo, o seu irmão [Mil](http://pt.wikipedia.org/wiki/M%C3%ADle_Espáine), diante de um grande exército, acabaria por levar a bom porto o seu empreendimento e garantir o controlo do país.
 

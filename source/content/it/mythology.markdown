@@ -1,8 +1,11 @@
 La fondazione del faro è strettamente legata a una serie di leggende che si sono perpetuate durante secoli. Quella più famosa è senza dubbio la leggenda di Ercole da cui la Torre prende il nome. A narrare la storia di Ercole fu Alfonso X il Saggio che, nel XIII secolo, raccontò come dopo tre giorni di lotta, Ercole sconfisse il gigante Gerione che aveva sottomesso l’intera popolazione. Nel luogo in cui seppellì la testa del nemico, l’eroe avrebbe voluto far costruire una torre e nelle vicinanze avrebbe fondato la città che chiamò Crunia, in onore alla prima donna che aveva vissuto in quel luogo. In seguito, suo nipote Espán, dopo essere stato nominato signore della Spagna, avrebbe terminato i lavori di costruzione della Torre del Faro, dotandolo di una lucerna che non si sarebbe mai spenta.
 
-<div class="photoset-grid" data-layout="2">
-<a href="http://ciav.s3.amazonaws.com/img/carta-real.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Carta Real"><img src="http://ciav.s3.amazonaws.com/img/carta-real.jpg"></a>
-<a href="http://ciav.s3.amazonaws.com/img/escudo-1448.jpg" class="fresco" data-fresco-group="article" data-fresco-caption="Escudo de 1448"><img src="http://ciav.s3.amazonaws.com/img/escudo-1448.jpg"></a>
+<div class="photoset-grid" data-layout="32">
+<a href="http://ciav.s3.amazonaws.com/img/carta-real.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/carta-real.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/escudo-1448.png" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/escudo-1448.png"></a>
+<a href="http://ciav.s3.amazonaws.com/img/Escudo-reynodegalizia-de-Pedro-Teixeira.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/Escudo-reynodegalizia-de-Pedro-Teixeira.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/IMG_2571.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/IMG_2571.jpg"></a>
+<a href="http://ciav.s3.amazonaws.com/img/IMG_2556.jpg" class="fresco" data-fresco-group="article" data-fresco-caption=""><img src="http://ciav.s3.amazonaws.com/img/IMG_2556.jpg"></a>
 </div> 
 
 La seconda leggenda, quella più estesa, racconta che Breogán fondò la città di Brigantia e che sulle sue coste edificò una torre. Il figlio Ith avrebbe scorto dalla Torre l’Irlanda e l’avrebbe conquistata se non fosse stato assassinato. Ma suo fratello Mil, alla guida di un gran esercito, riuscì nell’impresa e conquistò il paese .
